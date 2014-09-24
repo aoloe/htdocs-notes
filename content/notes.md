@@ -6,5 +6,7 @@ Sandra is asking for:
   - on android [vanilla](https://github.com/adrian-bl/vanilla)?
   - on windows [miro](http://www.getmiro.com/)?
 
-Generally speaking:
+Fairphone:
 - install f-droid
+- find an alternative music player
+- OSMAnd
