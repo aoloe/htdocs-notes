@@ -7,6 +7,7 @@ $gdb ./vis
 (gdb) run
 ...
 (gdb) step
+(gdb) print s
 ~~~
 
 # A Fairphone with no Google in it
