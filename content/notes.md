@@ -1,6 +1,7 @@
 # Using gdb to debug vis
 
 ~~~
+$make debug
 $gdb ./vis
 (gdb) break prompt_enter
 (gdb) run
