@@ -1,3 +1,13 @@
+# Using gdb to debug vis
+
+~~~
+$gdb ./vis
+(gdb) break prompt_enter
+(gdb) run
+...
+(gdb) step
+~~~
+
 # A Fairphone with no Google in it
 
 Sandra is asking for:
