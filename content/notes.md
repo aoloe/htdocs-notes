@@ -6,8 +6,10 @@ $gdb ./vis
 (gdb) break prompt_enter
 (gdb) run
 ...
-(gdb) step
-(gdb) print s
+(gdb) step // step (into) the next command
+(gdb) next // go to the next line
+(gdb) print s // prints a string
+(gdb) print *arg // prints the content of a pointer to a structure
 ~~~
 
 # A Fairphone with no Google in it
