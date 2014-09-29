@@ -1,3 +1,7 @@
+# Feature requests for vis
+
+- % register: mostly for running commands with the current files as the argument or inserting the filename in the current file
+
 # App Inventor and App Maker
 
 - https://apps.webmaker.org/
