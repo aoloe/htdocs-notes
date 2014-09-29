@@ -10,6 +10,19 @@ in order to work with a window manager, vis instances should be able to share:
 - it should be possible to have two vis instances on screen showing the same file (at different positions)
 - the current cursor position (warning: split view at different positions; hide one of the buffers; switch back to it)
 
+# Vis and buffers management
+
+It should be possible to hide unsaved buffers.
+
+Use case:
+
+- !!grep something *.c
+- gf to open the file under the cursor
+- edit the file
+- close the buffer and go back to the grep listing
+
+I should be able to this without saving the buffer with grep's result
+
 # Feature and bug requests for vis
 
 Bugs:
@@ -20,7 +33,8 @@ Bugs:
 Features:
 
 - % register: mostly for running commands with the current files as the argument or inserting the filename in the current file
-
+- :! runs a command and shows the standard output in a "pop up"
+- !! runs a command and inserts the standard output into the current line (replacing it)
 
 # App Inventor and App Maker
 
