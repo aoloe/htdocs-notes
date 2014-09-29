@@ -22,21 +22,19 @@ index c570914..27e6991 100644
  CFLAGS += -std=c99 -Os ${INCS} -DVERSION=\"${VERSION}\" -DNDEBUG
  LDFLAGS += ${LIBS}
 diff --git a/vis.c b/vis.c
-index 0bd5037..c2863c3 100644
+index 0bd5037..73a958e 100644
 --- a/vis.c
 +++ b/vis.c
-@@ -37,6 +37,10 @@
- #include "text-objects.h"
- #include "util.h"
- 
-+// #define _DARWIN_C_SOURCE
-+#if (!defined(SIGWINCH))
-+#define SIGWINCH 28
-+#endif
-+
- #ifdef PDCURSES
- int ESCDELAY;
- #endif
+@@ -17,6 +17,8 @@
+ #define _POSIX_SOURCE
+ /* Necessary for SIGWINCH on OpenBSD */
+ #define _BSD_SOURCE
++/* Necessary for SIGWINCH on OS X */
++#define _DARWIN_C_SOURCE 1
+ #include <locale.h>
+ #include <stdlib.h>
+ #include <unistd.h>
+
 ~~~
 
 
