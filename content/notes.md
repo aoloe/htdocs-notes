@@ -1,3 +1,44 @@
+# Getting vis to compile on mac
+
+~~~
+diff --git a/config.mk b/config.mk
+index c570914..27e6991 100644
+--- a/config.mk
++++ b/config.mk
+@@ -6,8 +6,14 @@ VERSION = devel
+ PREFIX = /usr/local
+ MANPREFIX = ${PREFIX}/share/man
+ 
++OS := $(shell uname)
++
+ INCS = -I.
+-LIBS = -lc -lncursesw
++ifeq ($(OS),Darwin)
++    LIBS = -lc -lncurses
++else
++	LIBS = -lc -lncursesw
++endif
+ 
+ CFLAGS += -std=c99 -Os ${INCS} -DVERSION=\"${VERSION}\" -DNDEBUG
+ LDFLAGS += ${LIBS}
+diff --git a/vis.c b/vis.c
+index 0bd5037..c2863c3 100644
+--- a/vis.c
++++ b/vis.c
+@@ -37,6 +37,10 @@
+ #include "text-objects.h"
+ #include "util.h"
+ 
++#if (!defined(SIGWINCH))
++#define SIGWINCH 28
++#endif
++
+ #ifdef PDCURSES
+ int ESCDELAY;
+ #endif
+~~~
+
+
 # Using gdb to debug vis
 
 ~~~
