@@ -29,6 +29,7 @@ index 0bd5037..c2863c3 100644
  #include "text-objects.h"
  #include "util.h"
  
++// #define _DARWIN_C_SOURCE
 +#if (!defined(SIGWINCH))
 +#define SIGWINCH 28
 +#endif
