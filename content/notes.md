@@ -1,6 +1,7 @@
-# Feature requests for vis
+# Feature and bug requests for vis
 
 - % register: mostly for running commands with the current files as the argument or inserting the filename in the current file
+- after inserting the content of the register with ctrl-r, the cursor should be at the end of the inserted text
 
 # App Inventor and App Maker
 
