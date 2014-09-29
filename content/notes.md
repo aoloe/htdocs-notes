@@ -8,6 +8,12 @@ Possible projects:
   - https://www.youtube.com/watch?v=ziDLN-lU5xE (drag and drop)
 - Memory
 - Pong http://www.appinventor.org/pong-steps
+- LED messages
+  - find width and height
+  - fill with dark red dots
+  - define a text that can be converted in dots
+  - how to convert text to dots?
+  - scroll the text
 
 # Getting vis to compile on mac
 
