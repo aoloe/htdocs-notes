@@ -5,6 +5,7 @@
 
 Possible projects:
 - Solitaire game
+  - https://www.youtube.com/watch?v=ziDLN-lU5xE (drag and drop)
 - Memory
 - Pong http://www.appinventor.org/pong-steps
 
