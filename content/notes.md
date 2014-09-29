@@ -3,6 +3,11 @@
 - https://apps.webmaker.org/
 - http://www.appinventor.org/
 
+Possible projects:
+- Solitaire game
+- Memory
+- Pong http://www.appinventor.org/pong-steps
+
 # Getting vis to compile on mac
 
 ~~~
