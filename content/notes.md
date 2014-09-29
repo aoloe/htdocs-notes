@@ -2,6 +2,7 @@
 
 - https://apps.webmaker.org/
 - http://www.appinventor.org/
+  - http://appinventor.mit.edu/explore/resources/beginner-app-inventor-concept-cards.html
 
 Possible projects:
 - Solitaire game
