@@ -1,7 +1,26 @@
+# Vis and window management
+
+- vis only has simple h and v split
+- more complex windows management should go through an external window manager
+
+in order to work with a window manager, vis instances should be able to share:
+- the registers
+- the list of open buffers
+- the unsaved content of buffer
+- it should be possible to have two vis instances on screen showing the same file (at different positions)
+- the current cursor position (warning: split view at different positions; hide one of the buffers; switch back to it)
+
 # Feature and bug requests for vis
 
-- % register: mostly for running commands with the current files as the argument or inserting the filename in the current file
+Bugs:
+
 - after inserting the content of the register with ctrl-r, the cursor should be at the end of the inserted text
+- zb does not work good enough even if there is no line wrapping (too far away from the bottom)
+
+Features:
+
+- % register: mostly for running commands with the current files as the argument or inserting the filename in the current file
+
 
 # App Inventor and App Maker
 
