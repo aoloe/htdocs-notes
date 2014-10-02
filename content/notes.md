@@ -35,6 +35,7 @@ Features:
 - % register: mostly for running commands with the current files as the argument or inserting the filename in the current file
 - :! runs a command and shows the standard output in a "pop up"
 - !! runs a command and inserts the standard output into the current line (replacing it)
+- == should intend the current line (or the visual selection) to indenting that would have been applied with autoindent
 
 # App Inventor and App Maker
 
