@@ -1,3 +1,11 @@
+# Programming with Scratch and Kids
+
+- [An Educator's Guide to Scratch Programming](http://www.scratchprogramming.org/)
+- http://inventwithscratch.com/ (and http://inventwithpython.com/index.html)
+
+Python:
+- http://www.briggs.net.nz/snake-wrangling-for-kids.html
+
 # Vis and window management
 
 - vis only has simple h and v split
