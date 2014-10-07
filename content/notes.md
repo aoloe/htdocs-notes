@@ -2,9 +2,23 @@
 
 - [An Educator's Guide to Scratch Programming](http://www.scratchprogramming.org/)
 - http://inventwithscratch.com/ (and http://inventwithpython.com/index.html)
+- http://www.campuslacamilla.it/scheda-corso-scratch/ e http://www.campuslacamilla.it/wp-content/uploads/2014/01/Scratch-2.0-Modulo-didattico.pdf
+- a good website as an example for us http://coderdojomilano.it/
 
 Python:
 - http://www.briggs.net.nz/snake-wrangling-for-kids.html
+
+# Vis automcomplete
+
+For my workflows, vis would need autocomplete for:
+- :e filename (tab to browse and ctrl-d to show the list)
+- ctrp-p / ctrl-n in insert mode (list of all entries in all open buffers)
+- 
+
+for this to happen we need
+- a way to create the list out of a text
+- if possible, a popup showing the list of choices
+
 
 # Vis and window management
 
@@ -18,6 +32,17 @@ in order to work with a window manager, vis instances should be able to share:
 - it should be possible to have two vis instances on screen showing the same file (at different positions)
 - the current cursor position (warning: split view at different positions; hide one of the buffers; switch back to it)
 
+# Vis and visual mode
+
+- i need the block mode. really.
+- linewise visual mode should extend by full lines when searching
+- using / leaves the visual mode in an instable state (basically: no way to get out of it)
+- in vim:
+    - leaving the linewise linemode leaves the cursor where it is (current vim behavior)
+    - leaving the linewise linemode by yanking moves the cursor to the beginning of the last line yanked (current vim behavior)
+    - leaving the linewise linemode by indenting moves the cursor to the beginning of the last line yanked (current vim behavior)
+  in vis the cursor is always left where it is, which -- possibly because of my habits in vim? -- mostly feels wrong.
+ 
 # Vis and buffers management
 
 It should be possible to hide unsaved buffers.
@@ -37,6 +62,7 @@ Bugs:
 
 - after inserting the content of the register with ctrl-r, the cursor should be at the end of the inserted text
 - zb does not work good enough even if there is no line wrapping (too far away from the bottom)
+- a at the beginning of a line starting the edit on the next line feels strange.
 
 Features:
 
