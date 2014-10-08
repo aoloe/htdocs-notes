@@ -1,3 +1,19 @@
+# Screencasting to Gif
+
+- http://javier.io/blog/en/2014/03/21/ffcast.html
+- https://github.com/lolilolicon/FFcast
+- http://unix.stackexchange.com/questions/113695/gif-screencasting-the-unix-way
+- http://askubuntu.com/questions/107726/how-to-create-animated-gif-images-of-a-screencast
+- http://www.maketecheasier.com/record-desktop-as-animated-gif/
+
+alternative:
+- capture the full screen
+- start a gif editor
+- set the size of the selection and initial size of the capture
+- show each frame that is different from the previous one
+- you can move the selection (keys + mouse), crop or remove the set of equal frames
+- optionally let add text and a mouse highlighter (position, click, double click)
+
 # Markdown and Github based CMS
 
 - http://realms.io/ : Git based wiki written in Python
