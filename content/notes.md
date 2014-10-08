@@ -8,6 +8,11 @@
 - https://github.com/GNOME/byzanz
 - https://github.com/DOOMer/screengrab
 - https://github.com/aoloe/drawrect
+- http://linux.die.net/man/3/xsetwindowattributes
+- http://www.unix-manuals.com/tutorials/xlib/xlib.html
+- http://tronche.com/gui/x/xlib/window/XCreateWindow.html
+- http://tronche.com/gui/x/xlib/GC/manipulating.html
+- http://linux.die.net/man/3/xgcvalues
 
 alternative:
 - capture the full screen
