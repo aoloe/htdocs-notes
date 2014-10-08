@@ -1,3 +1,11 @@
+# Markdown and Github based CMS
+
+- http://realms.io/ : Git based wiki written in Python
+
+# Scribus and complex scripts
+
+- we could need an analysis and update of [State of Text Rendering](http://behdad.org/text/)
+
 # Programming with Scratch and Kids
 
 - [An Educator's Guide to Scratch Programming](http://www.scratchprogramming.org/)
