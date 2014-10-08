@@ -5,6 +5,9 @@
 - http://unix.stackexchange.com/questions/113695/gif-screencasting-the-unix-way
 - http://askubuntu.com/questions/107726/how-to-create-animated-gif-images-of-a-screencast
 - http://www.maketecheasier.com/record-desktop-as-animated-gif/
+- https://github.com/GNOME/byzanz
+- https://github.com/DOOMer/screengrab
+- https://github.com/aoloe/drawrect
 
 alternative:
 - capture the full screen
