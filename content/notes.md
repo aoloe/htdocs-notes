@@ -40,6 +40,7 @@ alternative:
 - http://inventwithscratch.com/ (and http://inventwithpython.com/index.html)
 - http://www.campuslacamilla.it/scheda-corso-scratch/ e http://www.campuslacamilla.it/wp-content/uploads/2014/01/Scratch-2.0-Modulo-didattico.pdf
 - a good website as an example for us http://coderdojomilano.it/
+- a js (in browser) version of scratch: http://snap.berkeley.edu/
 
 Python:
 - http://www.briggs.net.nz/snake-wrangling-for-kids.html
