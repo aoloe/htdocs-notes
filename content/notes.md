@@ -1,3 +1,7 @@
+# Wifi and ETH0 on debian
+
+- in `/etc/modprobe.d/local-b43.conf` set `options b43 allhwsupport=1`
+
 # Screencasting to Gif
 
 - http://javier.io/blog/en/2014/03/21/ffcast.html
