@@ -1,5 +1,4 @@
 # Wifi and ETH0 on debian
-
 - in `/etc/modprobe.d/local-b43.conf` set `options b43 allhwsupport=1`
 - it's eth1, stupid.
 
