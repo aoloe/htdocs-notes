@@ -121,6 +121,7 @@ Features:
 - :! runs a command and shows the standard output in a "pop up"
 - !! runs a command and inserts the standard output into the current line (replacing it)
 - == should intend the current line (or the visual selection) to indenting that would have been applied with autoindent
+- stdout should go to the terminal (it seems to be captured from vis; stdin is also captured by vis, but this is probably correct)
 
 # App Inventor and App Maker
 
