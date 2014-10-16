@@ -8,7 +8,8 @@
 `exec_command`:
 - run any command with the same rights as the program
 - get the standard output of the program and store it in a string
-- insert the string at the currrent cursorf position (while keeping the ends of line)
+- insert the string at the currrent cursor position (while keeping the ends of line)
+- `ctrl-c` breaks the program and gets back to normal mode
 
 # Wifi and ETH0 on debian
 - in `/etc/modprobe.d/local-b43.conf` set `options b43 allhwsupport=1`
