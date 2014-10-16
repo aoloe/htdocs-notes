@@ -5,6 +5,11 @@
 - `:!!ls` insert the result of `ls` at the current cursor position
 - if there is a selection, it's passed as parameter to the filter and it gets replaces by the result of the command (`:!!filter` in visual mode or `:range!!filter`)
 
+`exec_command`:
+- run any command with the same rights as the program
+- get the standard output of the program and store it in a string
+- insert the string at the currrent cursorf position (while keeping the ends of line)
+
 # Wifi and ETH0 on debian
 - in `/etc/modprobe.d/local-b43.conf` set `options b43 allhwsupport=1`
 - it's eth1, stupid.
