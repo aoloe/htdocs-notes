@@ -1,3 +1,10 @@
+# Running external commands in Vis
+
+- only implement the command (starting with `:`)
+- `:!ls` shows result of ls in a popup
+- `:!!ls` insert the result of `ls` at the current cursor position
+- if there is a selection, it's passed as parameter to the filter and it gets replaces by the result of the command (`:!!filter` in visual mode or `:range!!filter`)
+
 # Wifi and ETH0 on debian
 - in `/etc/modprobe.d/local-b43.conf` set `options b43 allhwsupport=1`
 - it's eth1, stupid.
