@@ -24,6 +24,23 @@ What about making it my first go project? Mmmm...
 - activate it on the tablet / mobile
 - `dhclient usb0`
 
+# Running external commands in Vis
+
+- only implement the command (starting with `:`)
+- `:!ls` shows result of ls in a popup
+- `:!!ls` insert the result of `ls` at the current cursor position
+- if there is a selection, it's passed as parameter to the filter and it gets replaces by the result of the command (`:!!filter` in visual mode or `:range!!filter`)
+
+`exec_command`:
+- run any command with the same rights as the program
+- get the standard output of the program and store it in a string
+- insert the string at the currrent cursor position (while keeping the ends of line)
+- `ctrl-c` breaks the program and gets back to normal mode
+
+# Wifi and ETH0 on debian
+- in `/etc/modprobe.d/local-b43.conf` set `options b43 allhwsupport=1`
+- it's eth1, stupid.
+
 # Screencasting to Gif
 
 - http://javier.io/blog/en/2014/03/21/ffcast.html
@@ -62,6 +79,7 @@ alternative:
 - http://inventwithscratch.com/ (and http://inventwithpython.com/index.html)
 - http://www.campuslacamilla.it/scheda-corso-scratch/ e http://www.campuslacamilla.it/wp-content/uploads/2014/01/Scratch-2.0-Modulo-didattico.pdf
 - a good website as an example for us http://coderdojomilano.it/
+- a js (in browser) version of scratch: http://snap.berkeley.edu/
 
 Python:
 - http://www.briggs.net.nz/snake-wrangling-for-kids.html
@@ -107,7 +125,7 @@ It should be possible to hide unsaved buffers.
 
 Use case:
 
-- !!grep something *.c
+- `!!grep something *.c`
 - gf to open the file under the cursor
 - edit the file
 - close the buffer and go back to the grep listing
@@ -129,6 +147,7 @@ Features:
 - :! runs a command and shows the standard output in a "pop up"
 - !! runs a command and inserts the standard output into the current line (replacing it)
 - == should intend the current line (or the visual selection) to indenting that would have been applied with autoindent
+- stdout should go to the terminal (it seems to be captured from vis; stdin is also captured by vis, but this is probably correct)
 
 # App Inventor and App Maker
 
