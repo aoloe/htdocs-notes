@@ -1,6 +1,28 @@
-# Wifi and ETH0 on debian
-- in `/etc/modprobe.d/local-b43.conf` set `options b43 allhwsupport=1`
-- it's eth1, stupid.
+# Vis and digraph
+
+A nice vim feature that has little chances to be implemented into vis are digraphs.
+
+- `:digraph` shows all available digraphs
+- a nice sorted list: http://linuxprograms.wordpress.com/tag/vim-diagraphs/
+- the name digraph is already taken <http://linux.die.net/man/3/digraph_utils>
+- [RFC 1345 - Character Mnemonics and Character Sets](http://www.faqs.org/rfcs/rfc1345.html) seems to have better mnemonics than vim
+- insert on next line with `:r!kk +-` (personally i'm for !! at the cursor position: why add a new line?)
+
+What about making it my first go project? Mmmm...
+
+- `kk +-` returns `±`
+- output is utf8
+- `kk -l` list of all digraphs
+- `kk -l` list of all math didgraphs
+- `kk -s quote` list of all digraphs with quote in the description
+- what to do with digraphs that start with '-' and match an option? `kk -- -s` ?
+- is it possible to check if `kk` has been started in "pipe" mode?
+
+
+# Usb tethering and Debian
+
+- activate it on the tablet / mobile
+- `dhclient usb0`
 
 # Screencasting to Gif
 
