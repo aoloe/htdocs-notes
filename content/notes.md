@@ -149,6 +149,8 @@ Features:
 - == should intend the current line (or the visual selection) to indenting that would have been applied with autoindent
 - stdout should go to the terminal (it seems to be captured from vis; stdin is also captured by vis, but this is probably correct)
 
+btw: check `git format-patch`
+
 # App Inventor and App Maker
 
 - https://apps.webmaker.org/
