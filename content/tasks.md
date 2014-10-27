@@ -8,9 +8,9 @@
   - [ ] publish the draft patch
   - [ ] ask for help on unicode
 - kk
-  -[ ] publish a description
-  -[ ] ask for help on unicode
-  -[ ] ask for help on unicode
+  - [ ] publish a description
+  - [ ] ask for help on unicode
+  - [ ] ask for help on unicode
 
 ## Sdn
 
@@ -20,15 +20,15 @@
 ## LGM
 
 - go for tux family (if nobody is against)
-  -[ ] ask the team if tux family is ok
-  -[ ] communicate the choice to ML
-  -[ ] move the old sites to static
-  -[ ] move lgm/
-  -[ ] create 2015/
-  -[ ] propose and create team's MLs?
-  -[ ] create forward email addresses
-  -[ ] check for irc bot
-  -[ ] change DNS and communicate the move
+  - [ ] ask the team if tux family is ok
+  - [ ] communicate the choice to ML
+  - [ ] move the old sites to static
+  - [ ] move lgm/
+  - [ ] create 2015/
+  - [ ] propose and create team's MLs?
+  - [ ] create forward email addresses
+  - [ ] check for irc bot
+  - [ ] change DNS and communicate the move
 
 ## Deploy
 
