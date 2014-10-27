@@ -45,3 +45,5 @@
 - presentation on what has been learnt with the game
 - website
 - howtos
+- new people
+  - claudia?
