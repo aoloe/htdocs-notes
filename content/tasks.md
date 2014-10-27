@@ -4,9 +4,9 @@
 
 - publish my notes
 - `:!!`
-  -[ ] publish a proposal
-  -[ ] publish the draft patch
-  -[ ] ask for help on unicode
+  - [ ] publish a proposal
+  - [ ] publish the draft patch
+  - [ ] ask for help on unicode
 - kk
   -[ ] publish a description
   -[ ] ask for help on unicode
