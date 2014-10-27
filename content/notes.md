@@ -1,3 +1,27 @@
+# using demnu
+
+kajetan wrote to the suckless ML
+
+~~~
+Just want to share super-simple, crappy written yet quite useful (at
+least for me) script I've written while ago.
+I run it via bind with Ctrl+O
+
+bind '"\C-o":". ~/.dbdb.sh\C-m"'
+
+and the script
+
+#!/bin/sh
+CHOSEN="just for not being empty"
+DMENU="dmenu -i -fn -*-terminus-medium-r-*-*-14-*-*-*-*-*-*-*"
+COLORS=" -nb #000000 -nf #706c9a -sb #000000 -sf #dddddd"
+while [ "$CHOSEN" != "" ]; do
+   clear && pwd && ls -X
+   CHOSEN=`( ( echo "../" && ls -1p ) | grep "/" ) | $DMENU $COLORS`
+   cd "$CHOSEN"
+done
+~~~
+
 # Vis and digraph
 
 A nice vim feature that has little chances to be implemented into vis are digraphs.
