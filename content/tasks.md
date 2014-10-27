@@ -3,7 +3,7 @@
 ## Vis
 
 - publish my notes
-- :!!
+- system command :!!
   -[ ] publish a proposal
   -[ ] publish the draft patch
   -[ ] ask for help on unicode
