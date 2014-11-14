@@ -1,3 +1,7 @@
+# External monitor on debian
+
+for using an external monitor, just install (and run) `lxrandr`.
+
 # using demnu
 
 kajetan wrote to the suckless ML
