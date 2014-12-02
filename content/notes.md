@@ -1,3 +1,8 @@
+# Restoring a deleted file from a svn repository
+
+- `svn log -v .` on the parent directory and grep / less find for the filename to find the revision deleting the file
+- `svn cat svn://url.com/repository/path/to/the/file.txt@00000` (where 00000 is the last revision where the file was present) to echo the content of the file (yes, you can redirect it to a file).
+
 # External monitor on debian
 
 for using an external monitor, just install (and run) `lxrandr`.
