@@ -1,5 +1,12 @@
 # Open tasks
 
+# digitec
+
+- usb cable for charging nexus
+- gabby
+  - i've improved
+  - ask questions
+
 ## Vis
 
 - publish my notes
