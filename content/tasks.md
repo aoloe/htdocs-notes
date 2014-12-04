@@ -1,11 +1,11 @@
 # Open tasks
 
-# digitec
+## digitec
 
 - longer usb cable for charging nexus / charging solution
 - wifi router, compatible with 
 
-# gabby
+## gabby
   - i've improved
   - ask questions
 
