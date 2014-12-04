@@ -2,8 +2,10 @@
 
 # digitec
 
-- usb cable for charging nexus
-- gabby
+- longer usb cable for charging nexus / charging solution
+- wifi router, compatible with 
+
+# gabby
   - i've improved
   - ask questions
 
