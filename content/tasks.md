@@ -2,6 +2,13 @@
 
 ## christmas holidays
 
+- gützli
+  - martin, noldi
+  - jutta, colin, helene
+  - claudia, daniel, urs?
+  - seba
+  - bea + hans, olivia, talin, othmar
+
 - sdn
 - scribus
   - markdown plugin
