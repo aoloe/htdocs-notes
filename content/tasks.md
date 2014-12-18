@@ -3,7 +3,7 @@
 ## christmas holidays
 
 - gützli
-  - martin, noldi
+  - martin, noldi, tommaso
   - jutta, colin, helene
   - claudia, daniel, urs?
   - seba
