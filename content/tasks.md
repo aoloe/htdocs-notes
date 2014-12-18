@@ -1,13 +1,24 @@
 # Open tasks
 
-## digitec
+## christmas holidays
 
-- longer usb cable for charging nexus / charging solution
-- wifi router, compatible with 
-
-## gabby
-  - i've improved
-  - ask questions
+- sdn
+- scribus
+  - markdown plugin
+  - epub plugin
+  - scripter
+- deploy script
+- graphicslab homepage
+- xox homepage
+- ideale homepage
+- manuale scribus italiano
+- manual graphics for NGOs
+- prepare wikimedia scribus course
+- vis !!
+- publish badminton
+- coderdojo
+  - webpage
+  - flyer
 
 ## Vis
 
@@ -38,10 +49,6 @@
   - [ ] create forward email addresses
   - [ ] check for irc bot
   - [ ] change DNS and communicate the move
-
-## Deploy
-
-- add a queue
 
 ## Scribus
 
