@@ -5,6 +5,7 @@
 - gützli
   - martin, noldi, tommaso
   - jutta, colin, helene
+  - nicole, claire
   - claudia, daniel, urs?
   - seba
   - bea + hans, olivia, talin, othmar
