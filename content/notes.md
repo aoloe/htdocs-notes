@@ -7,6 +7,10 @@
 
 for using an external monitor, just install (and run) `lxrandr`.
 
+on top of it:
+- https://code.google.com/p/open-pdf-presenter/
+- https://github.com/jakobwesthoff/Pdf-Presenter-Console
+
 # using demnu
 
 kajetan wrote to the suckless ML
