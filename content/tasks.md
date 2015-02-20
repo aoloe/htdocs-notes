@@ -1,16 +1,5 @@
 # Open tasks
 
-## christmas holidays
-
-- gützli
-  - martin, noldi, tommaso
-  - jutta, colin, helene
-  - nicole, claire
-  - claudia, daniel, urs?
-  - seba
-  - bea + hans, olivia, talin, othmar
-
-- sdn
 - scribus
   - markdown plugin
   - epub plugin
@@ -21,12 +10,16 @@
 - ideale homepage
 - manuale scribus italiano
 - manual graphics for NGOs
-- prepare wikimedia scribus course
 - vis !!
-- publish badminton
 - coderdojo
   - webpage
   - flyer
+
+## easter
+
+- inside out eggs:
+  - <https://www.youtube.com/watch?v=2HvE3vc2NNg>
+  - <http://www.sciencetechs.com/search/label/Health>
 
 ## Vis
 
@@ -42,21 +35,10 @@
 
 ## Sdn
 
-- port all content pages
 - check what other modules are needed
 
 ## LGM
 
-- go for tux family (if nobody is against)
-  - [ ] ask the team if tux family is ok
-  - [ ] communicate the choice to ML
-  - [ ] move the old sites to static
-  - [ ] move lgm/
-  - [ ] create 2015/
-  - [ ] propose and create team's MLs?
-  - [ ] create forward email addresses
-  - [ ] check for irc bot
-  - [ ] change DNS and communicate the move
 
 ## Scribus
 
@@ -69,5 +51,13 @@
 - presentation on what has been learnt with the game
 - website
 - howtos
-- new people
-  - claudia?
+
+## christmas
+
+- gützli
+  - martin, noldi, tommaso
+  - jutta, colin, helene
+  - nicole, claire
+  - claudia, daniel, urs?
+  - seba
+  - bea + hans, olivia, talin, othmar
