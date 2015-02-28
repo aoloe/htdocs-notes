@@ -3,6 +3,8 @@
 `virtualenvwrapper` provides a simpler enviroment around `virtualenv`.
 
 ~~~
+$ apt-get install virtualenvwrapper
+# restart the terminal
 $  mkvirtualenv virtualenv
 # enable global packages
 (virualenv) $ toggleglobalsitepackages
