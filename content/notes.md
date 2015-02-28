@@ -1,3 +1,13 @@
+# Pyhton, virtualenv and virtualenvwrapper
+
+`virtualenvwrapper` provides a simpler enviroment around `virtualenv`.
+
+~~~
+$  mkvirtualenv virtualenv
+# enable global packages
+(virualenv) $ toggleglobalsitepackages
+~~~
+
 # Restoring a deleted file from a svn repository
 
 - `svn log -v .` on the parent directory and grep / less find for the filename to find the revision deleting the file
