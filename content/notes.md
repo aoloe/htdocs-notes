@@ -10,6 +10,10 @@ $  mkvirtualenv virtualenv
 (virualenv) $ toggleglobalsitepackages
 ~~~
 
+for python 3
+
+   mkvirtualenv -p /usr/bin/python3 glamhack
+
 # Restoring a deleted file from a svn repository
 
 - `svn log -v .` on the parent directory and grep / less find for the filename to find the revision deleting the file
