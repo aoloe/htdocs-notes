@@ -21,7 +21,9 @@ for python 3
 
 # External monitor on debian
 
-for using an external monitor, just install (and run) `lxrandr`.
+for using an external monitor, just install (and run) `lxrandr`.  
+if the external monitor is not there yet, but the mouse still goes far to the right, run `xrandr --auto` to get back to the "normal" setup.
+
 
 on top of it:
 - https://code.google.com/p/open-pdf-presenter/
