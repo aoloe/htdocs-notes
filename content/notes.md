@@ -113,6 +113,7 @@ What about making it my first go project? Mmmm...
 - http://linux.die.net/man/3/xgcvalues
 
 alternative:
+
 - capture the full screen
 - start a gif editor
 - set the size of the selection and initial size of the capture
@@ -123,6 +124,17 @@ alternative:
 # Markdown and Github based CMS
 
 - http://realms.io/ : Git based wiki written in Python
+
+in [this HN discussion](https://news.ycombinator.com/item?id=9262260) there are several hints for creating a web application that allows forking documents... it might be easy to implement...
+
+- each user (viewer?) can get to an edit view of the document.
+- the main document lists the available views.
+- everybody can see all the (moderated) forks.
+- the redactors are notified about each fork.
+- there is a way to see a diff between the main document and each fork (and export the diff?).
+- accepted diffs are put in a log and the fork removed.
+- for the sake of CC-BY-SA we should track all the contributors
+- there should be an easy way to contribute images.
 
 # Scribus and complex scripts
 
