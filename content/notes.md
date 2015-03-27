@@ -1,6 +1,33 @@
+# Pyhton, virtualenv and virtualenvwrapper
+
+`virtualenvwrapper` provides a simpler enviroment around `virtualenv`.
+
+~~~
+$ apt-get install virtualenvwrapper
+# restart the terminal
+$  mkvirtualenv virtualenv
+# enable global packages
+(virualenv) $ toggleglobalsitepackages
+~~~
+
+for python 3
+
+   mkvirtualenv -p /usr/bin/python3 glamhack
+
+# Restoring a deleted file from a svn repository
+
+- `svn log -v .` on the parent directory and grep / less find for the filename to find the revision deleting the file
+- `svn cat svn://url.com/repository/path/to/the/file.txt@00000` (where 00000 is the last revision where the file was present) to echo the content of the file (yes, you can redirect it to a file).
+
 # External monitor on debian
 
-for using an external monitor, just install (and run) `lxrandr`.
+for using an external monitor, just install (and run) `lxrandr`.  
+if the external monitor is not there yet, but the mouse still goes far to the right, run `xrandr --auto` to get back to the "normal" setup.
+
+
+on top of it:
+- https://code.google.com/p/open-pdf-presenter/
+- https://github.com/jakobwesthoff/Pdf-Presenter-Console
 
 (i have to test what `xrandr --auto` does...)
 
@@ -54,6 +81,7 @@ done
 - http://linux.die.net/man/3/xgcvalues
 
 alternative:
+
 - capture the full screen
 - start a gif editor
 - set the size of the selection and initial size of the capture
@@ -64,6 +92,17 @@ alternative:
 # Markdown and Github based CMS
 
 - http://realms.io/ : Git based wiki written in Python
+
+in [this HN discussion](https://news.ycombinator.com/item?id=9262260) there are several hints for creating a web application that allows forking documents... it might be easy to implement...
+
+- each user (viewer?) can get to an edit view of the document.
+- the main document lists the available views.
+- everybody can see all the (moderated) forks.
+- the redactors are notified about each fork.
+- there is a way to see a diff between the main document and each fork (and export the diff?).
+- accepted diffs are put in a log and the fork removed.
+- for the sake of CC-BY-SA we should track all the contributors
+- there should be an easy way to contribute images.
 
 # Scribus and complex scripts
 
