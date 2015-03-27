@@ -1,3 +1,60 @@
+# Firefox Phone
+
+## update
+
+- <https://hacks.mozilla.org/2013/08/pushing-a-firefox-os-web-app-to-zte-open-phone/>
+- <https://hacks.mozilla.org/2014/01/upgrading-your-zte-open-to-firefox-1-1-or-1-2-fastboot-enabled/>
+- <https://hacks.mozilla.org/2013/12/upgrading-your-zte-open-to-firefox-os-1-1/>
+
+## mail on sms
+
+- SMS Notifier (Colin): <https://gist.github.com/colinfrei/48476f365ee8f451534c>
+
+index.html
+
+~~~
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+ 
+<body>
+<div id="stuff"></div>
+<button id="button">fdoo</button>
+<script type="text/javascript">
+    var xmlhttp;
+
+    // from https://developer.mozilla.org/en-US/docs/Web/API/notification
+    navigator.mozSetMessageHandler('sms-received', function onSMS(sms) {
+        xmlhttp = new XMLHttpRequest();
+
+        xmlhttp.open("POST", "http://labs.colinfrei.com/gotSms", true);
+        xmlhttp.send();
+    });
+</script>
+</body>
+</html>
+~~~
+
+manifest.webapp
+~~~
+{
+    "name": "SMS Playground",
+    "description": "Try and handle receiving SMS",
+    "launch_path": "/index.html",
+    "type": "certified",
+    "permissions": {
+        "sms": {},
+        "backgroundservice": {},
+        "desktop-notification": {}
+     },
+    "messages": [
+        { "sms-received": "/index.html" },
+        { "notification": "/index.html" }
+    ]
+}
+~~~
+
 # Pyhton, virtualenv and virtualenvwrapper
 
 `virtualenvwrapper` provides a simpler enviroment around `virtualenv`.
