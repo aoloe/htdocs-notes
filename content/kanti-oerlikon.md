@@ -1,0 +1,2 @@
+- flow of production for scratch cards
+  - exporting text from sla and integrate in .md
