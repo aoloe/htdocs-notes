@@ -1,3 +1,8 @@
+# dvd on debian
+
+- play with `mplayer dvd://` (`dvdnav://` does not seem to work)
+- rip with `handbreak`. from terminal with `HandreakCLI` (cf. script in `bin_etc/`)
+
 # Firefox Phone
 
 ## update
