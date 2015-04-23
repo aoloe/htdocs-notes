@@ -12,6 +12,7 @@ and then run:
 
 and don't forget to remove inkscape before upgrading to a version that has 0.91!
 
+(cf. <http://www.jesusda.com/blog/index.php?id=508#instalacion-debian>)
 
 # dvd on debian
 
