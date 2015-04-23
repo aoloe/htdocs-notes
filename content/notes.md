@@ -1,3 +1,18 @@
+# inkscape 0.91 on debian jessie
+
+download the newest debian package:
+
+https://packages.debian.org/experimental/amd64/inkscape/download
+
+and then run:
+
+    dpkg -i inkscape_0.91.0+40.2_amd64.deb
+
+(i had to install livisio and libcdr first)
+
+and don't forget to remove inkscape before upgrading to a version that has 0.91!
+
+
 # dvd on debian
 
 - play with `mplayer dvd://` (`dvdnav://` does not seem to work)
