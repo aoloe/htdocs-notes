@@ -11,6 +11,9 @@ La salle 128 (au premier étage) (voir https://wiki2015.rmll.info/index.php/Lieu
 - dimitri
 - stickers (mailed jehan)
 
+d'une atelier "permanent", permettant des présentations synchrones et asynchrones de démonstrations,
+
+
 # announce
 - opensourcedesign/events
 - linuxgraphic
@@ -33,3 +36,5 @@ le mardi, très probablement, le graphisme.
 
 je dois encore me pencher sur la programmation de détail, mais j'aimerais te proposer une brève conférence le mardi matin et l'utilisation de la salle de travail pour le reste de la journée.
 ce n'est pas nécessaire que quelqu'un d'entre vous soit présent tout le temps, mais, si il y a des gens qui travaillent sur votre projet, ça serait sympa si vous donner un coup d'oeil de temps en temps.
+
+
