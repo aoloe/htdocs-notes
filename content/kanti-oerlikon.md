@@ -4,6 +4,7 @@
 
 notes:
 - http://www.ubuntubuzz.com/2015/04/scribus-basic-tips-for-page-layout-design.html
+- scribus-manual-de-iniciacion.pdf
 
 ## creative topics
 - optical margins
