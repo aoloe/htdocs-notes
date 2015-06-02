@@ -1,6 +1,7 @@
 # jogging music
 
 - mat & kim (tablet)
+- violent femmes
 
 # inkscape 0.91 on debian jessie
 
