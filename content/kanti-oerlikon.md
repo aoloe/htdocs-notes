@@ -12,6 +12,7 @@ notes:
 - layers (ausblenden) und pfäde aus PSD (TIFF, ...) benutzen
 - render rahmen
 - https://www.youtube.com/watch?v=G1c7lHLeT_M
+- pfade in scribus bearbeiten
 
 aus heise:
 
