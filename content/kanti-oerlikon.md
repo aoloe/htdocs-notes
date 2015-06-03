@@ -8,6 +8,7 @@ notes:
 - https://twitter.com/outilslibres
 - http://le-tigre.net/
 - "randausgleich" bei silbetrennung
+- ID IDML und indesign snippets
 
 aus heise:
 
