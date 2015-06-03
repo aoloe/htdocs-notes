@@ -9,6 +9,8 @@ notes:
 - http://le-tigre.net/
 - "randausgleich" bei silbetrennung
 - ID IDML und indesign snippets
+- layers (ausblenden) und pfäde aus PSD (TIFF, ...) benutzen
+- render rahmen
 
 aus heise:
 
