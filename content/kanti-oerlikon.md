@@ -15,7 +15,8 @@ notes:
 - pfade in scribus bearbeiten
 - farbkreis (mit farbblinden)
 - problemen
-  - - opentype
+  - opentype
+- <http://leporteplumes.com/2014/02/23/scribus-13-guides-pour-apprendre-a-utiliser-le-logiciel-libre-de-pao/> a set of tutorials in french (no license)
 
 aus heise:
 
