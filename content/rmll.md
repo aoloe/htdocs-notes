@@ -4,6 +4,9 @@ La salle 128 (au premier étage) (voir https://wiki2015.rmll.info/index.php/Lieu
 
 - rencontre entre utilisateur des logiciels
 
+- redynamiser linuxgraphic?
+-
+
 à contacter:
 
 - https://twitter.com/raphaelbastide/status/592477842119782401
