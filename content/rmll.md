@@ -3,9 +3,7 @@
 La salle 128 (au premier étage) (voir https://wiki2015.rmll.info/index.php/Lieux-salles-amphis). Elle semble bien convenir car elle dispose de 16 PC utilisables avec une clé bootable (système de notre choix, à communiquer) disposés contre les murs, et une table centrale sans ordinateur peut accueillir 5-6 personnes. Elle fait 50m², et je pense qu'il sera possible de changer un peu les tables de place si nécessaire. 
 
 - rencontre entre utilisateur des logiciels
-
 - redynamiser linuxgraphic?
--
 
 à contacter:
 
@@ -20,6 +18,7 @@ d'une atelier "permanent", permettant des présentations synchrones et asynchron
 # announce
 - opensourcedesign/events
 - linuxgraphic
+- raphaël et http://outilslibresalternatifs.org/ola0
 
 # voyage
 
