@@ -40,3 +40,11 @@ je dois encore me pencher sur la programmation de détail, mais j'aimerais te pr
 ce n'est pas nécessaire que quelqu'un d'entre vous soit présent tout le temps, mais, si il y a des gens qui travaillent sur votre projet, ça serait sympa si vous donner un coup d'oeil de temps en temps.
 
 
+# futur
+
+- gestion des confs seulement dans spip
+  - transfert automatique de toutes les confs du cfp
+- pas de protection htaccess pour le wiki
+  - mot de passe personnel pour l'écriture, compte par défaut sans écriture
+  - évt. protection en lecture pour certaines pages
+- section privée dans spip avec les how-tos pour les collaborateurs
