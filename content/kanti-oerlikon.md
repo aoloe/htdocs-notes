@@ -21,6 +21,8 @@ notes:
 - lernmaterial und lizenzen
   - deutsches forum
   - [Darf eine Lehrkraft die digitale Kopie eines Schulbuchs, das sie selbst besitzt, auch im Unterricht verwenden oder verstößt sie damit gegen das geltende Urheberrecht?](http://www.lehrer-online.de/fall-des-monats-1-2015.php) (was auch -NC betrifft...)
+- samples
+  - [Design team workbook](https://github.com/mairin/agc-materials/blob/master/workbook/)
 
 aus heise:
 
