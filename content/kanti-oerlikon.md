@@ -25,6 +25,11 @@ notes:
   - [Design team workbook](https://github.com/mairin/agc-materials/blob/master/workbook/)
 - indesign:
   - http://scribus-user.de/forum/viewtopic.php?f=6&t=140
+- samples
+  - gez from argentina
+    - http://www.ohweb.com.ar/share/index.php/s/cfscRkDbGKq8Mr8
+    - http://www.ohweb.com.ar/share/index.php/s/fbbb2025ff88db5b290c1593fd276f48
+    - https://twitter.com/gez
 
 aus heise:
 
