@@ -3,6 +3,7 @@
 La salle 128 (au premier étage) (voir https://wiki2015.rmll.info/index.php/Lieux-salles-amphis). Elle semble bien convenir car elle dispose de 16 PC utilisables avec une clé bootable (système de notre choix, à communiquer) disposés contre les murs, et une table centrale sans ordinateur peut accueillir 5-6 personnes. Elle fait 50m², et je pense qu'il sera possible de changer un peu les tables de place si nécessaire. 
 
 - rencontre entre utilisateur des logiciels
+- redynamiser linuxgraphic?
 
 à contacter:
 
@@ -17,6 +18,7 @@ d'une atelier "permanent", permettant des présentations synchrones et asynchron
 # announce
 - opensourcedesign/events
 - linuxgraphic
+- raphaël et http://outilslibresalternatifs.org/ola0
 
 # voyage
 
@@ -38,3 +40,11 @@ je dois encore me pencher sur la programmation de détail, mais j'aimerais te pr
 ce n'est pas nécessaire que quelqu'un d'entre vous soit présent tout le temps, mais, si il y a des gens qui travaillent sur votre projet, ça serait sympa si vous donner un coup d'oeil de temps en temps.
 
 
+# futur
+
+- gestion des confs seulement dans spip
+  - transfert automatique de toutes les confs du cfp
+- pas de protection htaccess pour le wiki
+  - mot de passe personnel pour l'écriture, compte par défaut sans écriture
+  - évt. protection en lecture pour certaines pages
+- section privée dans spip avec les how-tos pour les collaborateurs
