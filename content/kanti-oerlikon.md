@@ -1,3 +1,15 @@
+# Wunschliste
+
+– digitales Scribus-Handout
+– Export/Import von InDesign-Dateien nach Scribus
+– Ähnlichkeiten/Unterschiede von InDesign/Scribus
+– Erstellen von Musterseiten, Zeichen- und Absatzformatierung
+– Grafische Produkte der Kantonsschule Zürich Nord mit Scribus gestalten
+  - Nordpool: http://www.kzn.ch/cms/index.php/kzn/service/nordpool
+  - Plakate und Flyer: http://www.kzn.ch/cms/index.php/kzn/service/aktuell/686-serenade-
+  - Corporate Design des Kantons Zürich: http://www.feurer-network.ch/kanton-zurich/
+
+
 - flow of production for scratch cards
   - exporting text from sla and integrate in .md
 - jahresbuch zhaw
@@ -6,6 +18,12 @@
 - optical margins
 - colour blindness emulation and the colour wheel
 - render frames (latex / lilypond)
+
+## samples
+
+- Full-day walks from Kandersteg - 44-page guidebook, print-on-demand through Lulu. Uses free fonts (Gentium Basic) and free maps (Open Streetmap).
+  - http://www.lulu.com/content/paperback-book/full-day-walks-from-kandersteg/7300297
+  - create screenshots of the flash preview
 
 notes:
 - http://www.ubuntubuzz.com/2015/04/scribus-basic-tips-for-page-layout-design.html

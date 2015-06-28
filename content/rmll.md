@@ -23,7 +23,18 @@ d'une atelier "permanent", permettant des présentations synchrones et asynchron
 # voyage
 
 - zh-beauvais
+- paris nord-beauvais sncf:
+  - 12:01-13:18
+  - 14:01-15:18
+  - 16:07-17:24 (1 chang.)
+  - 17:01-18:20
+  - 18:34-20:04 (1 chang.)
+  - 18:56-20:09
+  - 21:01-22:18
+
 - beauvais me 8.7: 16:09 - Creil 16:45-16:51 Paris Nord - Paris Lyon 18:23 - Zh 22:26
+
+
 
 
 donc le graphisme aura un salle de travail aux rmll du lundi au mercredi!
