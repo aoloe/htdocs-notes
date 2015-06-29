@@ -1,3 +1,7 @@
+# starting the svn server
+
+    svnserve -d -r /mnt/backup/svn/
+
 # jogging music
 
 - mat & kim (tablet)
