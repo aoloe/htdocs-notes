@@ -1,4 +1,43 @@
-# Wunschliste
+## Verlauf
+
+- Warum Scribus? / Freie Software?
+- Was ist die Freie Software? (FS vs Open source)
+  - GPL, BSD, ...
+  - CC (NC...)
+- Flyer gestalten
+- Nordpool
+
+## Themen
+
+- Oberfläche
+- Dokumenteigenschaften / Einstellungen
+- Hilfslinien, Raster, Grundlinienraster (typografische Raster/Gestaltungsraster)
+- Spalten
+- Text und Bildrahmen / Vektografik
+- ODT (formattierter Text) laden
+- Vector- und Rasterbilder laden
+- Textrahmen verketten
+- Formatvorlagen (Paragraph, Zeichen, Linien)
+- Bezierkurve
+- Ebene
+- Farbe und Farbpaletten
+- Vorlagen, Musterseiten und Album
+- Tabellen und Tabulatoren
+- Seitennummerierung und Inhaltverzeichnis
+- PDF, Druck und Web
+
+## Todo
+
+- copy nordpool .sla with scrapbook
+- bart
+
+## Ort
+
+Ich habe ein Computerzimmer mit iMacs im 4. Stock, Trakt A, Zimmer 455 für die beiden Halbtage reserviert.
+
+Die Kantonsschule Zürich Nord befindet sich an der Birchstrasse 107.
+
+## Wunschliste
 
 – digitales Scribus-Handout
 – Export/Import von InDesign-Dateien nach Scribus
@@ -15,9 +54,83 @@
 - jahresbuch zhaw
 
 ## creative topics
+
 - optical margins
 - colour blindness emulation and the colour wheel
 - render frames (latex / lilypond)
+
+## Handouts
+
+- flossmanuals (en, fr; frei)
+- http://scribus-user.de/forum (frei / nc)
+- tutorials im <http://wiki.scribus.net> (teilweise übersetzt: <http://wiki.scribus.net/canvas/Hauptseite>):
+  - <http://wiki.scribus.net/canvas/Einstieg_in_Scribus>
+  - <http://wiki.scribus.net/canvas/Category:HOWTO_DE>
+- F1 help (eingeschränkt frei)
+- Alte Bücher
+  - Holger Reibold, "Scribus 1.5 kompakt: Das Anwenderhandbuch" (<http://www.brain-media.de/scribus-1-5-kompakt.html>, erscheint... heute!; <https://books.google.ch/books?id=qLzXCQAAQBAJ>)
+- Google:
+  - Scribus Handbuch
+    - <http://julius-cordes.de/dtp-pc/scribus-einfuehrung.pdf> (ohne lizenz)
+    - <http://www.bistum-trier.de/fileadmin/user_upload/docs/Handbuch-Scribus.pdf> (ohne lizenz)
+    - <http://www.sibilla-egen-schule.de/schule/sch-service/anleit/Scribus-Kurzanleitung_A-Z.pdf> (c)
+    - <http://lehrerfortbildung-bw.de/werkstatt/text/scribus/> (<http://www.pdf-archive.com/2012/01/12/scribus-anleitung/scribus-anleitung.pdf>; c; Landesakademie für Fortbildung und Personalentwicklung an Schulen)
+    - <http://fsub.schule.de/wissen/programm/scribus-schritte/1scribus-schritte-index.htm> (c)
+
+- <https://kswillisau.lu.ch/-/media/KSWillisau/Dokumente/Dokumente/Maturaarbeit_Gymi/MATA_Plakat_erstellen_Scribus.pdf>
+- Youtube
+  - <https://www.youtube.com/playlist?list=PL103A931AE65DF703> ("Dieses Tutorial soll die Grundlagen des DTP-Programms Scribus vermitteln">
+
+## Scribus 1.4
+
+- Dokumentenvorlagen für Kalender, Zeitungen, Poster, Visitenkarten,...
+- Festlegen des Anschnitts
+- Absatz-, Zeichen- und Linienstile
+- Individuelles Grundlinienraster
+- Alternative Umbruchfunktionen
+- Festausschlüsse (nur für Unicode-Schriften)
+- Ebenen
+- Masterseiten
+- Übergeordnete Bibliothek
+- Formelsatz LaTeX
+- PDF-Formularelemente
+- Verknüpfung mit Bildbearbeitungsprogrammen (z.B. Gimp oder Photoshop)
+- Importieren und bearbeiten von Vektorgrafiken (EPS, SVG)
+- PDF-Standard 1.5 inklusive Ebenen
+- EPS Dateien können direkt ins PDF exportiert werden (keine Umwandlung in Rastergrafiken mehr)
+- Export PDF/X-3, CMYK-Farbseperation, Schmuckfarben, ICC-Farbmanagement
+- Programmiersprache Python
+
+## Scribus vs ID
+
+1.4
+
+- transparency
+- automatic hyphenation
+- size of PDFS
+- tables (?)
+- length of linked text / number of pages
+- pantone
+- .doc(x)
+- text anchors
+- usability
+
+solved in 1.6
+
+- epub (~)
+- footnotes (?)
+- table of contents (?)
+- drop shadows (~)
+- Hurenkind und Schusterjunge
+
+- <http://www.danmason.co.uk/2012/02/26/scribus-open-source-alternative-to-quark-and-indesign/>
+- <http://www.laidout.org/dtpcompare.html>
+- <http://www.edv.bistum-wuerzburg.de/unsere-programme/freie-software/warum-scribus-> (Plädoyer der EDV-Stelle für den Einsatz von Scribus)
+
+## Export / Import
+
+- IDML / IDMS
+- librevenge
 
 ## samples
 
@@ -25,17 +138,18 @@
   - http://www.lulu.com/content/paperback-book/full-day-walks-from-kandersteg/7300297
   - create screenshots of the flash preview
 
-notes:
+## notes:
+
 - http://www.ubuntubuzz.com/2015/04/scribus-basic-tips-for-page-layout-design.html
 - scribus-manual-de-iniciacion.pdf
-- https://twitter.com/breton_fanny/status/600735428019429376 Le Design du Partage http://bit.ly/1Fmo84k  L'utilité publique de l'outil partagé #Mémoire #Fonderiedelimage A lire et à partager!
-- https://twitter.com/outilslibres
-- http://le-tigre.net/
+- <https://twitter.com/breton_fanny/status/600735428019429376> Le Design du Partage <http://bit.ly/1Fmo84k>  L'utilité publique de l'outil partagé #Mémoire #Fonderiedelimage A lire et à partager!
+- <https://twitter.com/outilslibres>
+- <http://le-tigre.net/>
 - "randausgleich" bei silbetrennung
 - ID IDML und indesign snippets
 - layers (ausblenden) und pfäde aus PSD (TIFF, ...) benutzen
 - render rahmen
-- https://www.youtube.com/watch?v=G1c7lHLeT_M
+- <https://www.youtube.com/watch?v=G1c7lHLeT_M>
 - pfade in scribus bearbeiten
 - farbkreis (mit farbblinden)
 - problemen
@@ -51,9 +165,9 @@ notes:
   - http://scribus-user.de/forum/viewtopic.php?f=6&t=140
 - samples
   - gez from argentina
-    - http://www.ohweb.com.ar/share/index.php/s/cfscRkDbGKq8Mr8
-    - http://www.ohweb.com.ar/share/index.php/s/fbbb2025ff88db5b290c1593fd276f48
-    - https://twitter.com/gez
+    - <http://www.ohweb.com.ar/share/index.php/s/cfscRkDbGKq8Mr8>
+    - <http://www.ohweb.com.ar/share/index.php/s/fbbb2025ff88db5b290c1593fd276f48>
+    - <https://twitter.com/gez>
 
 aus heise:
 
