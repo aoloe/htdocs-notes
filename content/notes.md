@@ -1,3 +1,14 @@
+# starting the svn server
+
+    svnserve -d -r /mnt/backup/svn/
+
+# jogging music
+
+- mat & kim (tablet)
+- violent femmes
+- pyramid vritra - intra - 04 - monkeybread
+- to rococo rot - speculation - 01 - away
+
 # inkscape 0.91 on debian jessie
 
 download the newest debian package:

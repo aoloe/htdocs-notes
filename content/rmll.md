@@ -3,6 +3,7 @@
 La salle 128 (au premier étage) (voir https://wiki2015.rmll.info/index.php/Lieux-salles-amphis). Elle semble bien convenir car elle dispose de 16 PC utilisables avec une clé bootable (système de notre choix, à communiquer) disposés contre les murs, et une table centrale sans ordinateur peut accueillir 5-6 personnes. Elle fait 50m², et je pense qu'il sera possible de changer un peu les tables de place si nécessaire. 
 
 - rencontre entre utilisateur des logiciels
+- redynamiser linuxgraphic?
 
 à contacter:
 
@@ -11,14 +12,29 @@ La salle 128 (au premier étage) (voir https://wiki2015.rmll.info/index.php/Lieu
 - dimitri
 - stickers (mailed jehan)
 
+d'une atelier "permanent", permettant des présentations synchrones et asynchrones de démonstrations,
+
+
 # announce
 - opensourcedesign/events
 - linuxgraphic
+- raphaël et http://outilslibresalternatifs.org/ola0
 
 # voyage
 
 - zh-beauvais
+- paris nord-beauvais sncf:
+  - 12:01-13:18
+  - 14:01-15:18
+  - 16:07-17:24 (1 chang.)
+  - 17:01-18:20
+  - 18:34-20:04 (1 chang.)
+  - 18:56-20:09
+  - 21:01-22:18
+
 - beauvais me 8.7: 16:09 - Creil 16:45-16:51 Paris Nord - Paris Lyon 18:23 - Zh 22:26
+
+
 
 
 donc le graphisme aura un salle de travail aux rmll du lundi au mercredi!
@@ -37,6 +53,7 @@ je dois encore me pencher sur la programmation de détail, mais j'aimerais te pr
 ce n'est pas nécessaire que quelqu'un d'entre vous soit présent tout le temps, mais, si il y a des gens qui travaillent sur votre projet, ça serait sympa si vous donner un coup d'oeil de temps en temps.
 
 
+<<<<<<< HEAD
 30 ans de philosophie de la double compétence artistique et technologique de la formation ATI Paris 8.
 Michel Bret [mail.anyflo@gmail.com] Edmond Couchot [edmond.couchot@gmail.com] Jean-François Jégo [contact@jfcad.com] Cédric Plessiet [cedric.plessiet@univ-paris8.fr] Rémy Sohier [remy.sohier@gmail.com] Marie-Hélène Tramus [mh.tramus@gmail.com]
 
@@ -78,3 +95,13 @@ Je te pries de me confirmer ta disponibilité pour cette date!
 
 Je reste à ta disposition pour toute question.
 Ale Rimoldi
+=======
+# futur
+
+- gestion des confs seulement dans spip
+  - transfert automatique de toutes les confs du cfp
+- pas de protection htaccess pour le wiki
+  - mot de passe personnel pour l'écriture, compte par défaut sans écriture
+  - évt. protection en lecture pour certaines pages
+- section privée dans spip avec les how-tos pour les collaborateurs
+>>>>>>> 4deca029b1fdfee2949a1324d1db6e4e2937736f
