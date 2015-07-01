@@ -34,11 +34,6 @@
 - Seitennummerierung und Inhaltverzeichnis
 - PDF, Druck und Web
 
-## Todo
-
-- copy nordpool .sla with scrapbook
-- bart
-
 ## Ort
 
 Ich habe ein Computerzimmer mit iMacs im 4. Stock, Trakt A, Zimmer 455 für die beiden Halbtage reserviert.
