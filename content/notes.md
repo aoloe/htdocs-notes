@@ -10,6 +10,18 @@ and live mixing, so that we avoid the big delays related to the post processing.
 - a browser and webrtc for streaming of the presentation laptop/computer screen  to the internal network
 - the streams get live mixed during the presentation (if the compression cannot be done right away a second laptop can be used to batch create the mp4 (or similar) files and upload them to video sites.
 
+some links and notes:
+- arduino, audio and video:
+  - http://forum.arduino.cc/index.php?topic=188690.0
+  - http://forum.arduino.cc/index.php?topic=218631.0
+- mixing software too look at:
+  - http://sourceforge.net/projects/webcamstudio/
+  - https://www.dyne.org/software/freej/
+  - http://www.opensourcebroadcast.com/category/directory/video-post-production
+- other:
+  - http://blog.eltrovemo.com/364/diy-broadcast-how-to-build-your-own-tv-channel-with-open-source-other-goodies/
+  
+
 # starting the svn server
 
     svnserve -d -r /mnt/backup/svn/
