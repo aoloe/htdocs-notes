@@ -23,6 +23,7 @@ some links and notes:
   - http://www.opensourcebroadcast.com/category/directory/video-post-production
 - other:
   - http://blog.eltrovemo.com/364/diy-broadcast-how-to-build-your-own-tv-channel-with-open-source-other-goodies/
+  - http://sonicrobots.com/2015/04/01/a-multi-usb-webcam-approach-with-open-frameworks/
   
 
 # starting the svn server
