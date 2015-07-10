@@ -10,6 +10,9 @@ and live mixing, so that we avoid the big delays related to the post processing.
 - a browser and webrtc for streaming of the presentation laptop/computer screen  to the internal network
 - the streams get live mixed during the presentation (if the compression cannot be done right away a second laptop can be used to batch create the mp4 (or similar) files and upload them to video sites.
 
+alternatives:
+- webcams could be connected through long usb cables
+
 some links and notes:
 - arduino, audio and video:
   - http://forum.arduino.cc/index.php?topic=188690.0
