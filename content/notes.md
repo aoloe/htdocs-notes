@@ -1,3 +1,15 @@
+# a cheap recording station
+
+all we need is a readable capture of the screen, a preview of what is happening on the scene (if possible with two points of view) and good audio.  
+and live mixing, so that we avoid the big delays related to the post processing.
+
+- a wireless router for connecting the devices
+- a laptop for mixing the streams
+- an arduino (or similar) connected to a mic, streaming the audio to the internal network
+- two arduinos (or similar cheap hardware) connected to two good wecams for streaming a VGA video to the internal network
+- a browser and webrtc for streaming of the presentation laptop/computer screen  to the internal network
+- the streams get live mixed during the presentation (if the compression cannot be done right away a second laptop can be used to batch create the mp4 (or similar) files and upload them to video sites.
+
 # starting the svn server
 
     svnserve -d -r /mnt/backup/svn/
