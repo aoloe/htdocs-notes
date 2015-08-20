@@ -11,7 +11,7 @@
 - Chambres d'hôtes - Ferme de la Fonderie (17 rue Untergrombach, Tél : 03 89 58 59 51; ferme.lafonderie4@calixo.net; http://www.fermelafonderie.com)
 - camping...
 
-http://www.valdargent-tourisme.fr/
+http://www.valdargent-tourisme.fr/ et http://www.valdargent-tourisme.fr/chambres-hotes
 
 # a cheap recording station
 
