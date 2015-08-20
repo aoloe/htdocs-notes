@@ -5,6 +5,9 @@
 - Auberge du Tunnel (+33 3 89 58 74 25, 1 km)
 - Auberge Du Petit Haut, 56 Lieu-dit Petit Hau (http://www.valdargent.com/petit-haut/; 03 89 58 72 15; 4 km)
 - http://www.auberge-sobache.com/ (5 km)
+- Cicci Véronique, B & B (+33 3 89 58 70 46)
+- Patris Jean-Paul, B & B (+33 3 89 58 75 24; 2.5 km)
+- Auberge du Randonneur (+33 3 89 58 71 31; 3 km)
 - camping...
 
 # a cheap recording station
