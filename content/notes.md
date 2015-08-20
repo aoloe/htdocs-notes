@@ -10,6 +10,8 @@
 - Auberge du Randonneur (+33 3 89 58 71 31; 3 km)
 - camping...
 
+http://www.valdargent-tourisme.fr/
+
 # a cheap recording station
 
 all we need is a readable capture of the screen, a preview of what is happening on the scene (if possible with two points of view) and good audio.  
