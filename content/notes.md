@@ -9,6 +9,8 @@
 - Patris Jean-Paul, B & B (+33 3 89 58 75 24; 2.5 km)
 - Auberge du Randonneur (+33 3 89 58 71 31; 3 km)
 - Chambres d'hôtes - Ferme de la Fonderie (17 rue Untergrombach, Tél : 03 89 58 59 51; ferme.lafonderie4@calixo.net; http://www.fermelafonderie.com)
+-  Chambre d'hôtes chez Mme Nicolaï (9 Rue du Champs de la Chatte; 06 30 57 61 31; marie-paule.nicolai@hotmail.fr)
+-  Chambre d'hôte Mme pascale JUNG (26 rue Saint-Louis Tél : 03 89 58 69 05 samuel_pascale@yahoo.fr)
 - camping...
 
 http://www.valdargent-tourisme.fr/ et http://www.valdargent-tourisme.fr/chambres-hotes
