@@ -1,3 +1,9 @@
+# c'est dans la vallée
+
+- info@bagenelles.com (requête par email)
+- Hotel Wistub Aux Mines d'Argentsc (complêt)
+- 
+
 # a cheap recording station
 
 all we need is a readable capture of the screen, a preview of what is happening on the scene (if possible with two points of view) and good audio.  
