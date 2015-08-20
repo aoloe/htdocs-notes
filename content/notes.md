@@ -2,7 +2,6 @@
 
 - info@bagenelles.com (requête par email)
 - Hotel Wistub Aux Mines d'Argentsc (complêt)
-- 
 
 # a cheap recording station
 
