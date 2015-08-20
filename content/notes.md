@@ -1,7 +1,9 @@
 # c'est dans la vallée
 
 - info@bagenelles.com (requête par email)
-- Hotel Wistub Aux Mines d'Argentsc (complêt)
+- Hotel Wistub Aux Mines d'Argent (complêt)
+- Auberge Du Petit Haut, 56 Lieu-dit Petit Hau (http://www.valdargent.com/petit-haut/; 4 km)
+- Auberge du Tunnel (+33 3 89 58 74 25, 1 km)
 
 # a cheap recording station
 
