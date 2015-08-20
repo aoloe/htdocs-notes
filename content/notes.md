@@ -8,6 +8,7 @@
 - Cicci Véronique, B & B (+33 3 89 58 70 46)
 - Patris Jean-Paul, B & B (+33 3 89 58 75 24; 2.5 km)
 - Auberge du Randonneur (+33 3 89 58 71 31; 3 km)
+- Chambres d'hôtes - Ferme de la Fonderie (17 rue Untergrombach, Tél : 03 89 58 59 51; ferme.lafonderie4@calixo.net; http://www.fermelafonderie.com)
 - camping...
 
 http://www.valdargent-tourisme.fr/
