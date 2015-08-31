@@ -5,7 +5,7 @@
 
 - taxi from airport ~ 40 TL (15 CHF)
 - havatas bus: atatürk - yenikapi (22:30, 23:00, ..., 01:00): 5. LT (with instabul card or cash)
-- metro 1 to zeytinburnu or aksaray/yusufpasa and tram T1 to gülhane or sirkeci (until midnight)
+- metro 1 to zeytinburnu or aksaray/yusufpasa and tram T1 to gülhane or sirkeci (until midnight; ~ 46 min)
 
 wittistannbul: (print!)
 
