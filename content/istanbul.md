@@ -2,6 +2,7 @@
 
 - https://vimeo.com/justinflux/istanbul-with-my-eyes-closed
 
+- http://www.aganhotel.com/en/ agan hotel
 
 - taxi from airport ~ 40 TL (15 CHF)
 - havatas bus: atatürk - yenikapi (22:30, 23:00, ..., 01:00): 5. LT (with instabul card or cash)
