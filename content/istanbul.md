@@ -23,3 +23,4 @@ wittistannbul: (print!)
 
 art:
 - istanbul biennial
+- http://www.iksv.org/en
