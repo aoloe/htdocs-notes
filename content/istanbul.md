@@ -19,6 +19,7 @@ wittistannbul: (print!)
 - rapid transit: https://upload.wikimedia.org/wikipedia/commons/8/87/Istanbul_Rapid_Transit_Map_with_Metrob%C3%BCs_%28schematic%29.png
 - https://en.wikipedia.org/wiki/Public_transport_in_Istanbul
 - http://www.mlutyens.com/appointment-form.html#.VedeB3Vie01
+- http://14b.iksv.org/parallel_events.asp#english
 
 art:
 - istanbul biennial
