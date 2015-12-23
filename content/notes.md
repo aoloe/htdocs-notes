@@ -10,6 +10,10 @@ https://love2d.org/
 - https://github.com/kikito/love-tile-tutorial/wiki
 - http://osmstudios.com/tutorials/your-first-love2d-game-in-200-lines-part-1-of-3
 
+# c++ and gosu
+
+a game engine for c++
+
 # python3 and virtualenv
 
     virtualenv --python python3 projectname
