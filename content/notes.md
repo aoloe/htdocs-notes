@@ -1,3 +1,10 @@
+# python3 and virtualenv
+
+    virtualenv --python python3 projectname
+    source projectname/bin/activate
+
+- it is possible to activate virtualenv in multiple terminals
+
 # starting the svn server
 
     svnserve -d -r /mnt/backup/svn/

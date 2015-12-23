@@ -7,6 +7,32 @@
 - Flyer gestalten
 - Nordpool
 
+## Verlauf 2
+
+- lockeren einstieg: ein paar fragen... ich suche mich ein paar spannende auf :-)
+
+- Ich ein paar seite Nordpool übernehmen
+- Sie am eigenes projekt arbeiten
+
+Was ich mir wünsche, ist nochmals den möglichen oder unmög-
+lichen Import von InDesign-Dateien oder -Musterseiten zu bespre-
+chen, das Erstellen von Musterseiten und das Verpacken (verlink-
+te Bilder und Dateien abspeichern).
+
+
+- Floss-manuals mitnehmen
+- Fragen (fast) nur als post-it (besser durchziehen)
+
+
+## Nordpool
+
+todo:
+- use real fonts
+- define id fonts
+
+- Import aus ODT
+  - kein Kursiv
+
 ## Offene frage für zweites Workshop
 
 - Hilfslinien sind unsichtbar, wenn Bildrahmen darüber ist.
@@ -34,6 +60,13 @@
 - Seitennummerierung und Inhaltverzeichnis
 - PDF, Druck und Web
 
+## Todo
+
+- Antworten zu offene Fragen (add photo to the slides)
+- Herausfinden, was es heisst: "Chain should make all fields equal".
+- Publish (and translate?) the first steps. Print them in A5?
+- Prepare a list of resources to be distributed.
+- Present floss manuals?
 ## Ort
 
 Ich habe ein Computerzimmer mit iMacs im 4. Stock, Trakt A, Zimmer 455 für die beiden Halbtage reserviert.
@@ -47,6 +80,7 @@ Die Kantonsschule Zürich Nord befindet sich an der Birchstrasse 107.
 – Ähnlichkeiten/Unterschiede von InDesign/Scribus
 – Erstellen von Musterseiten, Zeichen- und Absatzformatierung
 – Grafische Produkte der Kantonsschule Zürich Nord mit Scribus gestalten
+
   - Nordpool: http://www.kzn.ch/cms/index.php/kzn/service/nordpool
   - Plakate und Flyer: http://www.kzn.ch/cms/index.php/kzn/service/aktuell/686-serenade-
   - Corporate Design des Kantons Zürich: http://www.feurer-network.ch/kanton-zurich/

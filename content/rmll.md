@@ -14,6 +14,21 @@ La salle 128 (au premier étage) (voir https://wiki2015.rmll.info/index.php/Lieu
 
 d'une atelier "permanent", permettant des présentations synchrones et asynchrones de démonstrations,
 
+christoph (06 75 22 08 39) grand, brun, oisux, resp. uni 06 81 60 26 08) a les clés des chambres
+
+- debriefing 18:15
+
+# counting and slides
+
+- gimp & noir et blanc (10, to be uploaded)
+- scribus 1.5 (20, no slides)
+- rawtherapee (20, to be upladed)
+- games html 5 (15, not yet)
+
+# questions
+
+- make it known that there is a laboratory
+- update the program
 
 # announce
 - opensourcedesign/events
