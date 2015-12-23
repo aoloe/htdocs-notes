@@ -1,3 +1,15 @@
+# lua and löve
+
+Hi there! LÖVE is an *awesome* framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, Mac OS X, Linux, Android and iOS.
+
+https://love2d.org/
+
+- https://love2d.org/wiki/Game_Distribution
+- maybe better used with http://moonscript.org/ a programmer friendly language that compiles to lua
+- https://love2d.org/wiki/Category:Tutorials
+- https://github.com/kikito/love-tile-tutorial/wiki
+- http://osmstudios.com/tutorials/your-first-love2d-game-in-200-lines-part-1-of-3
+
 # python3 and virtualenv
 
     virtualenv --python python3 projectname
@@ -5,6 +17,54 @@
 
 - it is possible to activate virtualenv in multiple terminals
 
+# geschenke
+
+- <http://dscvr-guide.com>:  Reiseführer des Zufalls 20€
+
+# c'est dans la vallée
+
+- Hotel Wistub Aux Mines d'Argent (complêt)
+- info@bagenelles.com (requête par email)
+- Auberge du Tunnel (+33 3 89 58 74 25, 1 km)
+- Auberge Du Petit Haut, 56 Lieu-dit Petit Hau (http://www.valdargent.com/petit-haut/; 03 89 58 72 15; 4 km)
+- http://www.auberge-sobache.com/ (5 km)
+- Cicci Véronique, B & B (+33 3 89 58 70 46)
+- Patris Jean-Paul, B & B (+33 3 89 58 75 24; 2.5 km)
+- Auberge du Randonneur (+33 3 89 58 71 31; 3 km)
+- Chambres d'hôtes - Ferme de la Fonderie (17 rue Untergrombach, Tél : 03 89 58 59 51; ferme.lafonderie4@calixo.net; http://www.fermelafonderie.com)
+-  Chambre d'hôtes chez Mme Nicolaï (9 Rue du Champs de la Chatte; 06 30 57 61 31; marie-paule.nicolai@hotmail.fr)
+-  Chambre d'hôte Mme pascale JUNG (26 rue Saint-Louis Tél : 03 89 58 69 05 samuel_pascale@yahoo.fr)
+- camping...
+
+http://www.valdargent-tourisme.fr/ et http://www.valdargent-tourisme.fr/chambres-hotes
+
+# a cheap recording station
+
+all we need is a readable capture of the screen, a preview of what is happening on the scene (if possible with two points of view) and good audio.  
+and live mixing, so that we avoid the big delays related to the post processing.
+
+- a wireless router for connecting the devices
+- a laptop for mixing the streams
+- an arduino (or similar) connected to a mic, streaming the audio to the internal network
+- two arduinos (or similar cheap hardware) connected to two good wecams for streaming a VGA video to the internal network
+- a browser and webrtc for streaming of the presentation laptop/computer screen  to the internal network
+- the streams get live mixed during the presentation (if the compression cannot be done right away a second laptop can be used to batch create the mp4 (or similar) files and upload them to video sites.
+
+alternatives:
+- webcams could be connected through long usb cables
+
+some links and notes:
+- arduino, audio and video:
+  - http://forum.arduino.cc/index.php?topic=188690.0
+  - http://forum.arduino.cc/index.php?topic=218631.0
+- mixing software too look at:
+  - http://sourceforge.net/projects/webcamstudio/
+  - https://www.dyne.org/software/freej/
+  - http://www.opensourcebroadcast.com/category/directory/video-post-production
+- other:
+  - http://blog.eltrovemo.com/364/diy-broadcast-how-to-build-your-own-tv-channel-with-open-source-other-goodies/
+  - http://sonicrobots.com/2015/04/01/a-multi-usb-webcam-approach-with-open-frameworks/
+  
 # starting the svn server
 
     svnserve -d -r /mnt/backup/svn/
