@@ -1,3 +1,9 @@
+# android on debian
+
+- openjdk seems to be good enough. 
+- add `lib32stdc++6`: it's a 32 bits app! (otherwise you'll get a "Unable to run mksdcard SDK tool" an error on firs start / install).
+- add `qemu-kvm libvirt-bin` for the emulation.
+
 # lua and löve
 
 Hi there! LÖVE is an *awesome* framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, Mac OS X, Linux, Android and iOS.
