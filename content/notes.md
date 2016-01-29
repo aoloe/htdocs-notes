@@ -3,6 +3,7 @@
 - openjdk seems to be good enough. 
 - add `lib32stdc++6`: it's a 32 bits app! (otherwise you'll get a "Unable to run mksdcard SDK tool" an error on firs start / install).
 - add `qemu-kvm libvirt-bin` for the emulation.
+- add `lib32z1`. (libz for 32 bits)
 
 # lua and löve
 
