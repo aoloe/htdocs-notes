@@ -1,4 +1,11 @@
-# android on debian
+# youtube on android in the backgraound
+
+- start playing the video
+- move to the end and let it finish
+- press the "home button" and get out of youtube
+- swipe down and restart the video
+
+# android development on debian
 
 - openjdk seems to be good enough. 
 - add `lib32stdc++6`: it's a 32 bits app! (otherwise you'll get a "Unable to run mksdcard SDK tool" an error on firs start / install).
