@@ -4,6 +4,7 @@
 - move to the end and let it finish
 - press the "home button" and get out of youtube
 - swipe down and restart the video
+- but it seems to crash after a few minutes...
 
 # android development on debian
 
