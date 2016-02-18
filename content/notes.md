@@ -1,3 +1,10 @@
+# website for christian's wife
+
+- hugo? static sites in go?
+- or move her template to wp?
+- or urubu in python?
+- pelican?
+
 # youtube on android in the backgraound
 
 - start playing the video
