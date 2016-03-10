@@ -1,4 +1,20 @@
-# website for christian's wife
+# exercising c++ 11 and stl
+
+- https://www.hackerearth.com/notes/standard-template-library//
+- https://www.hackerearth.com/code-monk-c-stl/
+- http://geeksquiz.com/the-c-standard-template-library-stl/
+- http://cppquiz.org/quiz/question/115
+- http://www.tutorialspoint.com/cplusplus/cpp_online_quiz.htm
+- http://digital.cs.usu.edu/~bugs/quizzes/stl.html
+- http://halpernwightsoftware.com/stdlib-scratch/exercises.html
+- http://cs.brown.edu/~jak/proglang/cpp/stltut/tut.html
+- http://www.codeproject.com/Articles/854127/Top-Beautiful-Cplusplus-std-Algorithms-Examples
+- http://www.codeguru.com/cpp/article.php/c18131/C-Tutorial-10-New-STL-Algorithms-That-Will-Make-You-A-More-Productive-Developer.htm
+- https://www.safaribooksonline.com/library/view/c-for-the/9780133257120/ch18.html
+- http://www.bogotobogo.com/cplusplus/stl4_algorithms.php
+- 
+
+# website for chloe
 
 - hugo? static sites in go?
 - or move her template to wp?
