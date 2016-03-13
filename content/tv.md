@@ -13,3 +13,6 @@
 ## Free software and graphics
 
 - [INKSCAPE lesson3 : how to draw your face?](https://www.youtube.com/watch?v=EvLJAF83feI&feature=youtu.be)
+
+
+- http://www.gresham.ac.uk/lectures-and-events/a-very-brief-history-of-computing-1948-2015 : a brief history of computing
