@@ -12,7 +12,8 @@
 - http://www.codeguru.com/cpp/article.php/c18131/C-Tutorial-10-New-STL-Algorithms-That-Will-Make-You-A-More-Productive-Developer.htm
 - https://www.safaribooksonline.com/library/view/c-for-the/9780133257120/ch18.html
 - http://www.bogotobogo.com/cplusplus/stl4_algorithms.php
-- 
+
+- http://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html
 
 # website for chloe
 
