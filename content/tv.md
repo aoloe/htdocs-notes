@@ -13,3 +13,7 @@
 ## Free software and graphics
 
 - [INKSCAPE lesson3 : how to draw your face?](https://www.youtube.com/watch?v=EvLJAF83feI&feature=youtu.be)
+
+
+
+- TED talk by Peter Donnelly: "How juries are fooled by statistics"
