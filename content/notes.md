@@ -1,4 +1,36 @@
-# android on debian
+# exercising c++ 11 and stl
+
+- https://www.hackerearth.com/notes/standard-template-library//
+- https://www.hackerearth.com/code-monk-c-stl/
+- http://geeksquiz.com/the-c-standard-template-library-stl/
+- http://cppquiz.org/quiz/question/115
+- http://www.tutorialspoint.com/cplusplus/cpp_online_quiz.htm
+- http://digital.cs.usu.edu/~bugs/quizzes/stl.html
+- http://halpernwightsoftware.com/stdlib-scratch/exercises.html
+- http://cs.brown.edu/~jak/proglang/cpp/stltut/tut.html
+- http://www.codeproject.com/Articles/854127/Top-Beautiful-Cplusplus-std-Algorithms-Examples
+- http://www.codeguru.com/cpp/article.php/c18131/C-Tutorial-10-New-STL-Algorithms-That-Will-Make-You-A-More-Productive-Developer.htm
+- https://www.safaribooksonline.com/library/view/c-for-the/9780133257120/ch18.html
+- http://www.bogotobogo.com/cplusplus/stl4_algorithms.php
+
+- http://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html
+
+# website for chloe
+
+- hugo? static sites in go?
+- or move her template to wp?
+- or urubu in python?
+- pelican?
+
+# youtube on android in the backgraound
+
+- start playing the video
+- move to the end and let it finish
+- press the "home button" and get out of youtube
+- swipe down and restart the video
+- but it seems to crash after a few minutes...
+
+# android development on debian
 
 - openjdk seems to be good enough. 
 - add `lib32stdc++6`: it's a 32 bits app! (otherwise you'll get a "Unable to run mksdcard SDK tool" an error on firs start / install).
