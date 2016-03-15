@@ -15,6 +15,8 @@
 
 - http://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html
 
+- exercism.io
+
 # website for chloe
 
 - hugo? static sites in go?
