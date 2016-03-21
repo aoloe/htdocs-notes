@@ -9,6 +9,7 @@
 ## shorts
 
 - https://archive.org/details/FlatlandAnimated
+- http://www.palegraylabs.com/chad-gadya
 
 ## Documentaries
 
