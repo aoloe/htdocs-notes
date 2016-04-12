@@ -1,6 +1,6 @@
 # dashboards in js
 
-- https://www.golden-layout.com/
+- https://www.golden-layout.com/ (demo at https://terminal.sexy/)
 - https://www.patternfly.org/ (used by http://mycontroller.org/)
 
 # exercising c++ 11 and stl
