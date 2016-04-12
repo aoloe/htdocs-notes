@@ -1,3 +1,8 @@
+# dashboards in js
+
+- https://www.golden-layout.com/
+- https://www.patternfly.org/ (used by http://mycontroller.org/)
+
 # exercising c++ 11 and stl
 
 - https://www.hackerearth.com/notes/standard-template-library//
