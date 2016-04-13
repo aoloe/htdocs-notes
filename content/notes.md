@@ -1,3 +1,15 @@
+# imac as a tv
+
+- https://kodi.tv/
+- http://openelec.tv/
+
+# raspberry pi 3
+
+- get [minibian for raspberry pi](https://minibianpi.wordpress.com/)
+- untar the file and dd it (`dd if=abc.img of=/dev/sdb` -bs 4M)
+- boot the rpi with an ethernet cable attached
+- find the pi's ip address (`nmap -sn 192.168.1.0/24`)
+
 # exercising c++ 11 and stl
 
 - https://www.hackerearth.com/notes/standard-template-library//
