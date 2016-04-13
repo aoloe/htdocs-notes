@@ -1,3 +1,16 @@
+# gogs on mac
+
+- download
+- unzip
+- move to `~/bin`
+- create a `gogs` mysql database
+- (eventually create a user for `git` (if we want to run it in production on mac)
+- run `./gogs web`
+- go to `0.0.0.0:3000`
+- install
+  - put the repositories in `~/gogs-repositories`
+- create a user
+
 # dashboards in js
 
 - https://www.golden-layout.com/ (demo at https://terminal.sexy/)
