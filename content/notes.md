@@ -1,3 +1,28 @@
+# OTS organizers meeting
+
+- where?
+  - rackspace
+  - liip
+  - revamp-it
+  - schuel
+  - zhdk
+  - gloria
+  - unizh
+- when?
+  - only one?
+  - tuesday?
+  - monday?
+  - weekend?
+- what
+  - learning groups
+    - c++ for beginners / c++ for not so beginners anymore
+    - js and visualisation
+    - python
+    - web / apps frontend
+  - workshops
+    - python
+    - scipy
+    - MicroPython workshop (uche)
 # gogs on mac
 
 - download
