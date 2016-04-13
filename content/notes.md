@@ -10,6 +10,49 @@
 - boot the rpi with an ethernet cable attached
 - find the pi's ip address (`nmap -sn 192.168.1.0/24`)
 
+# OTS organizers meeting
+
+- where?
+  - rackspace
+  - liip
+  - revamp-it
+  - schuel
+  - zhdk
+  - gloria
+  - unizh
+- when?
+  - only one?
+  - tuesday?
+  - monday?
+  - weekend?
+- what
+  - learning groups
+    - c++ for beginners / c++ for not so beginners anymore
+    - js and visualisation
+    - python
+    - web / apps frontend
+  - workshops
+    - python
+    - scipy
+    - MicroPython workshop (uche)
+# gogs on mac
+
+- download
+- unzip
+- move to `~/bin`
+- create a `gogs` mysql database
+- (eventually create a user for `git` (if we want to run it in production on mac)
+- run `./gogs web`
+- go to `0.0.0.0:3000`
+- install
+  - put the repositories in `~/gogs-repositories`
+- create a user
+
+# dashboards in js
+
+- https://www.golden-layout.com/ (demo at https://terminal.sexy/)
+- https://www.patternfly.org/ (used by http://mycontroller.org/)
+
 # exercising c++ 11 and stl
 
 - https://www.hackerearth.com/notes/standard-template-library//
