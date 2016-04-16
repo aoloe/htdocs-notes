@@ -1,3 +1,7 @@
+# dell xps 13
+
+- https://wiki.archlinux.org/index.php/Dell_XPS_13_%282015%29
+
 # imac as a tv
 
 - https://kodi.tv/
