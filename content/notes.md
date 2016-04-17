@@ -1,3 +1,7 @@
+# gottard
+
+http://www.sbb.ch/freizeit-ferien/ferien-kurz-trips-schweiz/regionen/gotthard/gottardino-sonderzug.html
+
 # imac as a tv
 
 - https://kodi.tv/
