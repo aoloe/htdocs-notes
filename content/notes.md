@@ -1,6 +1,17 @@
-# gottard
+# digital publishing toolkit
+
+- https://github.com/DigitalPublishingToolkit/hybrideditor
+- https://github.com/DigitalPublishingToolkit/epubster
+- https://github.com/DigitalPublishingToolkit/sausagemachine
+- https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Resources
+
+# gothard
 
 http://www.sbb.ch/freizeit-ferien/ferien-kurz-trips-schweiz/regionen/gotthard/gottardino-sonderzug.html
+
+# dell xps 13
+
+- https://wiki.archlinux.org/index.php/Dell_XPS_13_%282015%29
 
 # imac as a tv
 
