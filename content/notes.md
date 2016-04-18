@@ -1,3 +1,9 @@
+# sinhala fonts
+
+- https://github.com/mooniak
+- https://github.com/mooniak/sinhala-font-tools/blob/gh-pages/testing/sinhala-font-test-lines.txt
+- https://github.com/mooniak/sinhala-font-tools/tree/gh-pages/testing
+
 # digital publishing toolkit
 
 - https://github.com/DigitalPublishingToolkit/hybrideditor
@@ -5,7 +11,7 @@
 - https://github.com/DigitalPublishingToolkit/sausagemachine
 - https://github.com/DigitalPublishingToolkit/Hybrid-Publishing-Resources
 
-# gothard
+# gottardo
 
 http://www.sbb.ch/freizeit-ferien/ferien-kurz-trips-schweiz/regionen/gotthard/gottardino-sonderzug.html
 
