@@ -56,6 +56,7 @@ http://www.sbb.ch/freizeit-ferien/ferien-kurz-trips-schweiz/regionen/gotthard/go
     - python
     - scipy
     - MicroPython workshop (uche)
+
 # gogs on mac
 
 - download
