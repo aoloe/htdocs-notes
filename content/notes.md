@@ -1,3 +1,8 @@
+# lg in north italy
+
+- http://www.bubblesfactory.it/b/?page_id=1136
+- http://uidu.org/search/linux
+
 # sinhala fonts
 
 - https://github.com/mooniak
