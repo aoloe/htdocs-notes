@@ -1,7 +1,14 @@
+# sierra alfa
+
+- only put the main toolbar to the left
+- only use free assets
+- lgm in italy?
+
 # lg in north italy
 
 - http://www.bubblesfactory.it/b/?page_id=1136
 - http://uidu.org/search/linux
+- libre italy
 
 # sinhala fonts
 
