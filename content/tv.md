@@ -32,3 +32,8 @@
 - http://www.gresham.ac.uk/lectures-and-events/a-very-brief-history-of-computing-1948-2015 : a brief history of computing
 - [INKSCAPE lesson3 : how to draw your face?](https://www.youtube.com/watch?v=EvLJAF83feI&feature=youtu.be)
 - https://www.youtube.com/watch?v=V6VP-2aIcSc (Object-Oriented Programming is Garbage: 3800 SLOC example; with [comments](https://news.ycombinator.com/item?id=11342683)
+
+# bs
+
+- tatort: 9 / 12
+- code 37: 1 / 5
