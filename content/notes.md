@@ -25,6 +25,7 @@ http://www.sbb.ch/freizeit-ferien/ferien-kurz-trips-schweiz/regionen/gotthard/go
 # dell xps 13
 
 - https://wiki.archlinux.org/index.php/Dell_XPS_13_%282015%29
+- for hdmi/vga https://github.com/advancingu/XPS13Linux/issues/6 links to  http://www.amazon.com/Cable-Matters%C2%AE-DisplayPort-Thunderbolt-Compatible/dp/B00ESM3ISM/ref=sr_1_fkmr1_2?ie=UTF8&qid=1438355727&sr=8-2-fkmr1&keywords=CSL+-+3in1+Mini+Display+Port linked from 
 
 # imac as a tv
 
