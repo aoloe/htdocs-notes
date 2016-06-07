@@ -29,8 +29,13 @@ http://www.sbb.ch/freizeit-ferien/ferien-kurz-trips-schweiz/regionen/gotthard/go
 - for hdmi/vga https://github.com/advancingu/XPS13Linux/issues/6 links to  http://www.amazon.com/Cable-Matters%C2%AE-DisplayPort-Thunderbolt-Compatible/dp/B00ESM3ISM/ref=sr_1_fkmr1_2?ie=UTF8&qid=1438355727&sr=8-2-fkmr1&keywords=CSL+-+3in1+Mini+Display+Port
 - does the dell adapter work or not? https://github.com/advancingu/XPS13Linux/issues/6
 - negative experience on installing debian testing: http://nerdjusttyped.blogspot.ch/2015/11/linux-debian-testing-on-dell-xps-13.html
-- it's a xps 13 9350
 
+## updgrade the bios
+
+- it's an xps 13 9350
+- `sudo cp /home/hugo/Downloads/XPS_9350_1.3.3.exe /boot/efi/`
+- Then reboot your computer to the BIOS menu by pressing “F12” when the Dell Logo is displayed. Select “Bios Flash Update” and the update will be installed.
+- the bios seems to be up to date...
 # imac as a tv
 
 - https://kodi.tv/
