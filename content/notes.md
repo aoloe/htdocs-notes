@@ -29,6 +29,10 @@ http://www.sbb.ch/freizeit-ferien/ferien-kurz-trips-schweiz/regionen/gotthard/go
 - for hdmi/vga https://github.com/advancingu/XPS13Linux/issues/6 links to  http://www.amazon.com/Cable-Matters%C2%AE-DisplayPort-Thunderbolt-Compatible/dp/B00ESM3ISM/ref=sr_1_fkmr1_2?ie=UTF8&qid=1438355727&sr=8-2-fkmr1&keywords=CSL+-+3in1+Mini+Display+Port
 - does the dell adapter work or not? https://github.com/advancingu/XPS13Linux/issues/6
 - negative experience on installing debian testing: http://nerdjusttyped.blogspot.ch/2015/11/linux-debian-testing-on-dell-xps-13.html
+- boot with an ubuntu iso to start gparted and resize the main partition
+- installig debian:
+  - get and dd the netinst iso
+  - disable secure boot in the bios
 
 ## updgrade the bios
 
