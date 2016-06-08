@@ -31,7 +31,8 @@ http://www.sbb.ch/freizeit-ferien/ferien-kurz-trips-schweiz/regionen/gotthard/go
 - negative experience on installing debian testing: http://nerdjusttyped.blogspot.ch/2015/11/linux-debian-testing-on-dell-xps-13.html
 - boot with an ubuntu iso to start gparted and resize the main partition
 - installig debian:
-  - get and dd the netinst iso
+  - <https://wiki.debian.org/InstallingDebianOn/Dell/Dell%20XPS%2013>
+  - get and dd the non free netinst iso (for the wifi)
   - disable secure boot in the bios
 
 ## updgrade the bios
