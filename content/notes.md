@@ -32,8 +32,11 @@ http://www.sbb.ch/freizeit-ferien/ferien-kurz-trips-schweiz/regionen/gotthard/go
 - boot with an ubuntu iso to start gparted and resize the main partition
 - installig debian:
   - <https://wiki.debian.org/InstallingDebianOn/Dell/Dell%20XPS%2013>
-  - get and dd the non free netinst iso (for the wifi)
+  - get and dd the non free netinst iso (for the wifi) of debian testing: http://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/
   - disable secure boot in the bios
+  - get the firmware for the wifi and copy the needed files to a second usbstick
+    - `git clone https://git.kernel.org/pub/scm/linux/kernel/git/iwlwifi/linux-firmware.git`
+    - `cp iwlwifi-8000C-20.ucode iwlwifi-8000C-19.ucode iwlwifi-8000C-18.ucode iwlwifi-8000C-17.ucode /mnt/usb_a/`
 
 ## updgrade the bios
 
