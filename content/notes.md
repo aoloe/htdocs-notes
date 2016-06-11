@@ -29,6 +29,16 @@ http://www.sbb.ch/freizeit-ferien/ferien-kurz-trips-schweiz/regionen/gotthard/go
 - for hdmi/vga https://github.com/advancingu/XPS13Linux/issues/6 links to  http://www.amazon.com/Cable-Matters%C2%AE-DisplayPort-Thunderbolt-Compatible/dp/B00ESM3ISM/ref=sr_1_fkmr1_2?ie=UTF8&qid=1438355727&sr=8-2-fkmr1&keywords=CSL+-+3in1+Mini+Display+Port
 - does the dell adapter work or not? https://github.com/advancingu/XPS13Linux/issues/6
 - negative experience on installing debian testing: http://nerdjusttyped.blogspot.ch/2015/11/linux-debian-testing-on-dell-xps-13.html
+
+## updgrade the bios
+
+- it's an xps 13 9350
+- `sudo cp /home/hugo/Downloads/XPS_9350_1.3.3.exe /boot/efi/`
+- Then reboot your computer to the BIOS menu by pressing “F12” when the Dell Logo is displayed. Select “Bios Flash Update” and the update will be installed.
+- the bios seems to be up to date...
+
+## install debian testing
+
 - boot with an ubuntu iso to start gparted and resize the main partition
 - installig debian:
   - <https://wiki.debian.org/InstallingDebianOn/Dell/Dell%20XPS%2013>
@@ -37,13 +47,41 @@ http://www.sbb.ch/freizeit-ferien/ferien-kurz-trips-schweiz/regionen/gotthard/go
   - get the firmware for the wifi and copy the needed files to a second usbstick
     - `git clone https://git.kernel.org/pub/scm/linux/kernel/git/iwlwifi/linux-firmware.git`
     - `cp iwlwifi-8000C-20.ucode iwlwifi-8000C-19.ucode iwlwifi-8000C-18.ucode iwlwifi-8000C-17.ucode /mnt/usb_a/`
+  - minimal setup:
+    - setup the wifi:
+      - `iwconfig` to find out that the wlan card is called `wlp58s0`
+      - configure the network interface:
 
-## updgrade the bios
+        ~~~
+            auto wlp58s0
+            iface wlp58s0 inet dhcp 
+                wpa-ssid {ssid}
+                wpa-psk  {password}
+        ~~~
 
-- it's an xps 13 9350
-- `sudo cp /home/hugo/Downloads/XPS_9350_1.3.3.exe /boot/efi/`
-- Then reboot your computer to the BIOS menu by pressing “F12” when the Dell Logo is displayed. Select “Bios Flash Update” and the update will be installed.
-- the bios seems to be up to date...
+        <http://unix.stackexchange.com/questions/92799/connecting-to-wifi-network-through-command-line>
+      - `/etc/init.d/networking restart` (was `dhclient wlp58s0`)
+      - i should check if i can manage the network with `ifup` and `ifdown` from `ifupdown`
+    - install `sudo` and `vim` (remove `vim-tiny`)
+    - set `vim` as the default editor and setup `sudo`
+
+## hidpi
+
+- https://wiki.archlinux.org/index.php/HiDPI
+
+## dwm
+
+- <https://www.reddit.com/r/unixporn/comments/3cxhuj/dwm_did_someone_say_hidpi_simstim/?>
+
+## wlan without wicd?
+
+- <https://www.howtoforge.com/how-to-connect-to-a-wpa-wifi-using-command-lines-on-debian>
+- <https://wiki.debian.org/WiFi/HowToUse>
+
+(create a small gui tool that creates the connection? and show the status in the dwm status bar? parsing the result of `iwlist scan` & co?)
+
+(or use connman?)
+
 # imac as a tv
 
 - https://kodi.tv/
