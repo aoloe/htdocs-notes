@@ -332,7 +332,7 @@ some links and notes:
 - other:
   - http://blog.eltrovemo.com/364/diy-broadcast-how-to-build-your-own-tv-channel-with-open-source-other-goodies/
   - http://sonicrobots.com/2015/04/01/a-multi-usb-webcam-approach-with-open-frameworks/
-  
+- [HDMI2USB: Open video capture hardware + firmware](https://github.com/timvideos/HDMI2USB)
 # starting the svn server
 
     svnserve -d -r /mnt/backup/svn/
