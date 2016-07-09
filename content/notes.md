@@ -1,3 +1,32 @@
+# streaming (the desktop) from linux
+
+- http://realmike.org/blog/2011/02/09/live-desktop-streaming-via-dlna-on-gnulinux/
+  - mediatomb
+  - a set of scripts
+  - This command line takes sound from PulseAudio and screen images from X11 (at 20 fps) and combines them into a Matroska file using the H.264 codec for video and AC3 for audio. It grabs a rectangular area of 1024×576 pixels, 128 pixels from the left edge of the screen and 224 pixels from the top edge of the screen:
+
+    ~~~
+    ffmpeg -f alsa -ac 2 -i pulse -f x11grab -r 20 -s 1024×576 -i :0.0+128,224 -acodec ac3 -ac 1 -vcodec libx264 -vpre fast -threads 0 -f matroska ~/Videos/capture.mkv
+    ~~~
+
+- https://www.reddit.com/r/linux/comments/1mf77q/is_there_anyway_to_stream_my_desktop_to_my_tv_via/
+  - minidlna for sending
+- [Capture video of a linux desktop](http://www.commandlinefu.com/commands/view/148/capture-video-of-a-linux-desktop)
+- vlc?
+  - <http://praxistipps.chip.de/vlc-dlna-und-upnp-streaming-einrichten-so-gehts_36568>
+  - <https://software.grok.lsu.edu/Article.aspx?articleid=14625>
+  - a vlc appimage is already in `~/bin`
+
+# appimage
+
+- create a virtualbox with ubuntu 14.4 (a older linux for a compatible libc & co)
+- build the AppImageKit
+- probably, it's possible to mount the current AppImage, get all the content, replace scribus with the one compiled (and its plugins) and rebuild a new image.
+
+notes:
+
+- `sudo mount -o loop /tmp/Scribus-1.5.3.svn.21360-x86_64.AppImage tmp/`
+
 # lg in north italy
 
 - http://www.bubblesfactory.it/b/?page_id=1136
@@ -42,6 +71,7 @@ http://www.sbb.ch/freizeit-ferien/ferien-kurz-trips-schweiz/regionen/gotthard/go
 - boot with an ubuntu iso to start gparted and resize the main partition
 - installig debian:
   - <https://wiki.debian.org/InstallingDebianOn/Dell/Dell%20XPS%2013>
+  - <https://wiki.debian.org/InstallingDebianOn/Dell/Dell%20XPS%2013%209343>
   - get and dd the non free netinst iso (for the wifi) of debian testing: http://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/
   - disable secure boot in the bios
   - get the firmware for the wifi and copy the needed files to a second usbstick
@@ -64,6 +94,49 @@ http://www.sbb.ch/freizeit-ferien/ferien-kurz-trips-schweiz/regionen/gotthard/go
       - i should check if i can manage the network with `ifup` and `ifdown` from `ifupdown`
     - install `sudo` and `vim` (remove `vim-tiny`)
     - set `vim` as the default editor and setup `sudo`
+    - trying to force ip4:
+      - add to `/etc/sysctl.conf`:
+
+        ~~~
+# IPv6 disabled
+net.ipv6.conf.all.disable_ipv6 = 1
+net.ipv6.conf.default.disable_ipv6 = 1
+net.ipv6.conf.lo.disable_ipv6 = 1
+        ~~~
+
+	- `sysctl -p`
+
+    - for some "wrong" ip6 router, `wide-dhcpv6-client` must be installed? (rennes...)
+
+## media keys
+
+- install `xbacklight`
+
+status:
+- `xbacklight dec 10` does not work, but `xrandr --output eDP1 --brightness 0.5` does.
+- no idea what the `-display`parameter in `xbacklight` is.
+- `xrandr` only has set, not inc/dec
+- `xrandr --prop` seems to suggest that brightness is not enabled / supported.
+- <https://bbs.archlinux.org/viewtopic.php?id=77832> explains how to bind the key in dwm
+- <https://bbs.archlinux.org/viewtopic.php?id=58298>
+- <http://www.woozle.org/~neale/src/dwm/>
+- <https://wiki.archlinux.org/index.php/Backlight#systemd-backlight_service>
+- currently trying adding the parameter to grup or xorg confg
+  - <http://askubuntu.com/questions/476664/cannot-change-backlight-brightness-ubuntu-14-04>
+- i've added a file `./etc/X11/xorg.conf.d/20-intel_backlight.conf` with the content
+
+  ~~~
+Section "Device"
+	Identifier "card0"
+	Driver "intel"
+	Option "Backlight" "intel_backlight"
+	BusID "PCI:0:2:0"
+EndSection
+  ~~~
+
+    `.local/share/xorg/Xorg.0.log` seems to confirm that the file is read... but nothing is change
+- i've downloaded <https://raw.githubusercontent.com/wavexx/acpilight/master/xbacklight> and symlinked it in `/usr/local/bin` and it seems to work... i have to check if it changes the battery use.
+
 
 ## hidpi
 
@@ -82,6 +155,16 @@ http://www.sbb.ch/freizeit-ferien/ferien-kurz-trips-schweiz/regionen/gotthard/go
 
 (or use connman?)
 
+## problems
+
+- how to get claws-mail not to be full screen
+  - `xprop` gives the class that one can use for the rules in `config.h`
+
+
+## problems
+
+- how to get claws-mail not to be full screen
+  - `xprop` gives the class that one can use for the rules in `config.h`
 # imac as a tv
 
 - https://kodi.tv/
