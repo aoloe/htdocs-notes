@@ -1,3 +1,21 @@
+# setup sandstorm on pi
+
+... rather than own clown with plugins...
+
+it does not work, since sandstorm only works on x86-64
+
+alternatives:
+
+- https://yunohost.org/
+  - seems to have very few apps officially supported
+- https://cozy.io
+  - documentation is not as clear...
+- https://arcos.io
+  - still beta
+    - still beta
+
+
+
 # streaming (the desktop) from linux
 
 - http://realmike.org/blog/2011/02/09/live-desktop-streaming-via-dlna-on-gnulinux/
@@ -52,6 +70,9 @@ notes:
 http://www.sbb.ch/freizeit-ferien/ferien-kurz-trips-schweiz/regionen/gotthard/gottardino-sonderzug.html
 
 # dell xps 13
+
+- the usb-c dell adapter does work but...
+- with lxrandr and the qumi q6 i can only get it to mirror part of the screen, position is not available for it.
 
 - https://wiki.archlinux.org/index.php/Dell_XPS_13_%282015%29
 - http://frankshin.com/installing-archlinux-on-dell-xps-13-late-2015-skylake-9350/ (older source for the archlinux wiki page)
