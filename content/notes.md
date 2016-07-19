@@ -1,3 +1,11 @@
+# grafiklabor
+
+wo sind meine notizen? hier etwas dazu...
+
+- haar freistellen
+  - mit hintegrund: https://www.youtube.com/watch?v=MCZyjJ2Ps4Y
+  - ohne intergrund: https://www.youtube.com/watch?v=CuhzA4wCDgY
+
 # setup sandstorm on pi
 
 ... rather than own clown with plugins...
