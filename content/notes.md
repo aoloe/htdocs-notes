@@ -45,6 +45,8 @@ notes:
 
 - `sudo mount -o loop /tmp/Scribus-1.5.3.svn.21360-x86_64.AppImage tmp/`
 
+probono sayz: "just loop-mount the AppImage, cp -r somewhere, edit as you like, and run it though AppImageAssistant again"
+
 # lg in north italy
 
 - http://www.bubblesfactory.it/b/?page_id=1136
