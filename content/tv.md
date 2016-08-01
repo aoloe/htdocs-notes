@@ -40,5 +40,5 @@
 
 # bs
 
-- tatort: 10 / 10
+- tatort: 11 / 8
 - code 37: 1 / 5
