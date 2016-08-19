@@ -9,6 +9,20 @@
 - bart to the future: http://bs.to/serie/Die-Simpsons/11/17-Barts-Blick-in-die-Zukunft/Streamcloud-1
 - dario fo: [morte accidentale di un anarchico](https://www.youtube.com/watch?v=d53F8rQXUnA)
 
+zürich
+
+- der italiener, paolo poloni (documentario sul santa lucia @ pbz.ch)
+- ZÜRI BRÄNNT oder GLOBUSKRAWALL von Jürg Hassler
+- STRÄHL von Manuel Flurin Hendry
+- DER KREIS von Stefan Haupt
+- TRAUMLAND von Petra Volpe an.
+- Heimat oder Hölle - Chronik eines Quartiers im Umbruch (srf)
+- Bäckerei Zürrer
+
+schweiz
+
+- http://interaktiv.tagesanzeiger.ch/2016/100filme/ die 100 beste schweizer filme
+
 ## shorts
 
 - https://archive.org/details/FlatlandAnimated
