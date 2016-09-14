@@ -16,7 +16,7 @@ people keep on wishing new features for scribus. today, i've put together a list
 - the property based table of contents. (even if not replaced by a style based one)
 - opening pdf and svg files (they should always be imported as vectors or loaded in image frames). open and save should only work with `.sla` files.
 - the script editor.
-- automatic text frames (they can be useful in some corner case, but people seem to have more issues with it, than it can help; eventually moving it from the new dialog to the document settings could already help)
+- automatic text frames (they can be useful in some corner case, but people seem to have more issues with it, than it can help; eventually moving it from the new dialog to the document settings could already help; any way, extending the multiple insert to create new pages and set the link seems to be a more useful and flexible solution)
 
 what are the features you would like to see removed?
 
