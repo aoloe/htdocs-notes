@@ -2,11 +2,26 @@
 
 things i'd like to see removed from scribus:
 
-- print (replaced by a print through pdf viewer... with configuration)
-- default templates (replaced by a website where somebody can download sample documents; ID does not have default templates!)
-- the text tool settings (eventually, one should be able to choose a default style)
-- the character tab from the paragraph styles (one should pick a character style instead; the style editor should be non modal and multiple styles should be editable at the same time)
+people keep on wishing new features for scribus. today, i've put together a list of (anti-) features i'd like to see removed from scribus.
+
+- print (replaced by a print through pdf viewer... with configuration).
+- default templates (replaced by a website where somebody can download sample documents; ID does not have default templates!).
+- the text tool settings (eventually, one should be able to choose a default style).
+- the character tab from the paragraph styles (one should pick a character style instead; the style editor should be non modal and multiple styles should be editable at the same time).
 - by default only show the tools toolbar. vertically.
+- the "print preview" in the file menu (should be an external tool that works on the pdf / gs file).
+- the option to make the preview mode non editable (preview should be made through a pdf viewer).
+- the edit with story editor entry in the context menu.
+- the story editor (replaced by an advanced "tags" editor).
+- the property based table of contents. (even if not replaced by a style based one)
+- opening pdf and svg files (they should always be imported as vectors or loaded in image frames). open and save should only work with `.sla` files.
+
+what are the features you would like to see removed?
+
+why remove features?
+- some features simply do not work or they are so complicated to use that one should avoid them.
+- some features are misleading the user and make the UI complicated.
+- some feature should be moved to external tools.
 
 # grafiklabor
 
