@@ -15,6 +15,7 @@ people keep on wishing new features for scribus. today, i've put together a list
 - the story editor (replaced by an advanced "tags" editor).
 - the property based table of contents. (even if not replaced by a style based one)
 - opening pdf and svg files (they should always be imported as vectors or loaded in image frames). open and save should only work with `.sla` files.
+- the script editor.
 
 what are the features you would like to see removed?
 
