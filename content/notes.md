@@ -1,3 +1,13 @@
+# make scribus lighter
+
+things i'd like to see removed from scribus:
+
+- print (replaced by a print through pdf viewer... with configuration)
+- default templates (replaced by a website where somebody can download sample documents; ID does not have default templates!)
+- the text tool settings (eventually, one should be able to choose a default style)
+- the character tab from the paragraph styles (one should pick a character style instead; the style editor should be non modal and multiple styles should be editable at the same time)
+- by default only show the tools toolbar. vertically.
+
 # grafiklabor
 
 wo sind meine notizen? hier etwas dazu...
