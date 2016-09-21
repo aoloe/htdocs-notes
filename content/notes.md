@@ -20,6 +20,7 @@ people keep on wishing new features for scribus. today, i've put together a list
 - the pdf form functionalities, javascript included.
 - do not allow restrictions on the usage of the pdf (do not print, do not annotate).
 - presentation effects.
+- 3D rendering.
 
 what are the features you would like to see removed?
 
