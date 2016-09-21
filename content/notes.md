@@ -9,14 +9,17 @@ people keep on wishing new features for scribus. today, i've put together a list
 - the text tool settings (eventually, one should be able to choose a default style).
 - the character tab from the paragraph styles (one should pick a character style instead; the style editor should be non modal and multiple styles should be editable at the same time).
 - by default only show the tools toolbar. vertically.
-- the "print preview" in the file menu (should be an external tool that works on the pdf / gs file).
+- the "print preview" in the file menu (should be an external tool that works on the pdf / ps file).
 - the option to make the preview mode non editable (preview should be made through a pdf viewer).
-- the edit with story editor entry in the context menu.
+- the edit with story editor entry in the context menu. it should be replaced by an "edit" entry that start the edit mode.
 - the story editor (replaced by an advanced "tags" editor).
-- the property based table of contents. (even if not replaced by a style based one)
+- the property based table of contents. (even if not replaced by a style based one).
 - opening pdf and svg files (they should always be imported as vectors or loaded in image frames). open and save should only work with `.sla` files.
 - the script editor.
-- automatic text frames (they can be useful in some corner case, but people seem to have more issues with it, than it can help; eventually moving it from the new dialog to the document settings could already help; any way, extending the multiple insert to create new pages and set the link seems to be a more useful and flexible solution)
+- automatic text frames (they can be useful in some corner case, but people seem to have more issues with it, than it can help; eventually moving it from the new dialog to the document settings could already help; any way, extending the multiple insert to create new pages and set the link seems to be a more useful and flexible solution).
+- the pdf form functionalities, javascript included.
+- do not allow restrictions on the usage of the pdf (do not print, do not annotate).
+- presentation effects.
 
 what are the features you would like to see removed?
 
