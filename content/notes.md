@@ -21,6 +21,7 @@ people keep on wishing new features for scribus. today, i've put together a list
 - do not allow restrictions on the usage of the pdf (do not print, do not annotate).
 - presentation effects.
 - 3D rendering.
+- remove the current dialog that allows to open / new / new from template / open recent. (eventually replace with a few buttons / links on the empty desktop: "new file... / open file... / list of the n latest files / new from template...")
 
 what are the features you would like to see removed?
 
