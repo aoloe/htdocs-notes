@@ -37,6 +37,7 @@ wo sind meine notizen? hier etwas dazu...
 - haar freistellen
   - mit hintegrund: https://www.youtube.com/watch?v=MCZyjJ2Ps4Y
   - ohne intergrund: https://www.youtube.com/watch?v=CuhzA4wCDgY
+-  panorama zeichnen: http://www.2dgameartguru.com/2016/07/create-clouds-using-circles-in-inkscape.html
 
 # setup sandstorm on pi
 
