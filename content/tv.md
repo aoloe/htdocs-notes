@@ -35,6 +35,7 @@ schweiz
 - deux minutes du peuple sur youtube: https://www.youtube.com/watch?v=phZNOxmSQeg
 - court métrage en stop motion: [padre](https://vimeo.com/162326419)
 - [Stephen Fry Kinetic Typography - Language](https://www.youtube.com/watch?v=J7E-aoXLZGY)
+- Adam Curtis Documentaries in 90 Seconds (https://www.youtube.com/watch?v=5CsMdGFplmM)
 
 ## interactive reading
 
