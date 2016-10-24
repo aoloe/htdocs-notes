@@ -1,3 +1,8 @@
+# reading a sdxc card on linux
+
+- install fuse-exfat (or similar)
+- use exfat as the formatting type in the fstab
+
 # make scribus lighter
 
 things i'd like to see removed from scribus:
