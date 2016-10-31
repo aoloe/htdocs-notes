@@ -43,6 +43,7 @@ wo sind meine notizen? hier etwas dazu...
   - mit hintegrund: https://www.youtube.com/watch?v=MCZyjJ2Ps4Y
   - ohne intergrund: https://www.youtube.com/watch?v=CuhzA4wCDgY
 -  panorama zeichnen: http://www.2dgameartguru.com/2016/07/create-clouds-using-circles-in-inkscape.html
+- text as shape https://www.youtube.com/watch?v=l3BHcregNUs and http://forums.scribus.net/index.php/topic,2236.msg10201.html#msg10201
 
 # setup sandstorm on pi
 
