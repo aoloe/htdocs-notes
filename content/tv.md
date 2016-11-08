@@ -30,6 +30,7 @@ schweiz
 
 ## shorts
 
+- [die nacksche kanone](https://www.youtube.com/watch?v=ZXPoI7JA9SU)
 - [il giallo](https://www.youtube.com/watch?v=9ChgVQxgzR4)
 - https://archive.org/details/FlatlandAnimated
 - http://www.palegraylabs.com/chad-gadya
