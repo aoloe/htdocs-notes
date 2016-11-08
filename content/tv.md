@@ -30,6 +30,7 @@ schweiz
 
 ## shorts
 
+- [il giallo](https://www.youtube.com/watch?v=9ChgVQxgzR4)
 - https://archive.org/details/FlatlandAnimated
 - http://www.palegraylabs.com/chad-gadya
 - deux minutes du peuple sur youtube: https://www.youtube.com/watch?v=phZNOxmSQeg
