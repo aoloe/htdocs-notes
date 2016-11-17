@@ -5,7 +5,7 @@
 
 ## Movies
 
-- be kind rewing (commedy, mp4, laptop)
+- be kind rewind (commedy, mp4, laptop)
 - cemetery of splendour (mp4, laptop)
 - http://www.cultureunplugged.com/ documentary films
 - Life in Loops (a film remix of Megacities) ft. Sofa Surfers
@@ -30,6 +30,7 @@ schweiz
 
 ## shorts
 
+- [A short about absurdity](https://vimeo.com/191444383)
 - [die nacksche kanone](https://www.youtube.com/watch?v=ZXPoI7JA9SU)
 - [il giallo](https://www.youtube.com/watch?v=9ChgVQxgzR4)
 - https://archive.org/details/FlatlandAnimated
