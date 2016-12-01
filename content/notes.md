@@ -1,3 +1,7 @@
+# huawei setup
+
+- if you want an app to give notification you have to set it as prioritary in the battery manager.
+
 # reading a sdxc card on linux
 
 - install fuse-exfat (or similar)
