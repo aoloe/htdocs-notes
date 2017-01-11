@@ -50,6 +50,8 @@ wo sind meine notizen? hier etwas dazu...
 - text as shape https://www.youtube.com/watch?v=l3BHcregNUs and http://forums.scribus.net/index.php/topic,2236.msg10201.html#msg10201
 - http://www.yemanjalisa.net/realiser-un-flocon-de-neige-avec-inkscape/
 
+weitere notizen in der grafiklabor repositry, als issues!
+
 # setup sandstorm on pi
 
 ... rather than own clown with plugins...
