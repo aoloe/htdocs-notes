@@ -48,6 +48,7 @@ wo sind meine notizen? hier etwas dazu...
   - ohne intergrund: https://www.youtube.com/watch?v=CuhzA4wCDgY
 -  panorama zeichnen: http://www.2dgameartguru.com/2016/07/create-clouds-using-circles-in-inkscape.html
 - text as shape https://www.youtube.com/watch?v=l3BHcregNUs and http://forums.scribus.net/index.php/topic,2236.msg10201.html#msg10201
+- http://www.yemanjalisa.net/realiser-un-flocon-de-neige-avec-inkscape/
 
 # setup sandstorm on pi
 
