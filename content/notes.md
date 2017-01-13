@@ -1,3 +1,22 @@
+# piping the errors
+
+for piping both the output and the error:
+
+    make 2>&1 | less
+
+
+# getting git to work when ssh is blocked
+
+
+add to your `~/.gitconfig` file:
+
+    [url "https://github.com/"]
+    	insteadOf = git://github.com/
+    [url "https://github.com/"]
+    	insteadOf = git@github.com:
+
+to get in through https instead of ssh
+
 # grafiklabor
 
 wo sind meine notizen? hier etwas dazu...
@@ -520,6 +539,10 @@ done
 - it's eth1, stupid.
 
 # Screencasting to Gif
+
+installed
+- pitivi as flatpak package in `~/bin`
+- simplescreenrecorder
 
 - http://javier.io/blog/en/2014/03/21/ffcast.html
 - https://github.com/lolilolicon/FFcast
