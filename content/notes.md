@@ -17,6 +17,47 @@ add to your `~/.gitconfig` file:
 
 to get in through https instead of ssh
 
+# huawei setup
+
+- if you want an app to give notification you have to set it as prioritary in the battery manager.
+
+# reading a sdxc card on linux
+
+- install fuse-exfat (or similar)
+- use exfat as the formatting type in the fstab
+
+# make scribus lighter
+
+things i'd like to see removed from scribus:
+
+people keep on wishing new features for scribus. today, i've put together a list of (anti-) features i'd like to see removed from scribus.
+
+- print (replaced by a print through pdf viewer... with configuration).
+- default templates (replaced by a website where somebody can download sample documents; ID does not have default templates!).
+- the text tool settings (eventually, one should be able to choose a default style).
+- the character tab from the paragraph styles (one should pick a character style instead; the style editor should be non modal and multiple styles should be editable at the same time).
+- by default only show the tools toolbar. vertically.
+- the "print preview" in the file menu (should be an external tool that works on the pdf / ps file).
+- the option to make the preview mode non editable (preview should be made through a pdf viewer).
+- the edit with story editor entry in the context menu. it should be replaced by an "edit" entry that start the edit mode.
+- the story editor (replaced by an advanced "tags" editor).
+- the property based table of contents. (even if not replaced by a style based one).
+- opening pdf and svg files (they should always be imported as vectors or loaded in image frames). open and save should only work with `.sla` files.
+- the script editor.
+- automatic text frames (they can be useful in some corner case, but people seem to have more issues with it, than it can help; eventually moving it from the new dialog to the document settings could already help; any way, extending the multiple insert to create new pages and set the link seems to be a more useful and flexible solution).
+- the pdf form functionalities, javascript included.
+- do not allow restrictions on the usage of the pdf (do not print, do not annotate).
+- presentation effects.
+- 3D rendering.
+- remove the current dialog that allows to open / new / new from template / open recent. (eventually replace with a few buttons / links on the empty desktop: "new file... / open file... / list of the n latest files / new from template...")
+
+what are the features you would like to see removed?
+
+why remove features?
+- some features simply do not work or they are so complicated to use that one should avoid them.
+- some features are misleading the user and make the UI complicated.
+- some feature should be moved to external tools.
+
 # grafiklabor
 
 wo sind meine notizen? hier etwas dazu...
@@ -24,6 +65,11 @@ wo sind meine notizen? hier etwas dazu...
 - haar freistellen
   - mit hintegrund: https://www.youtube.com/watch?v=MCZyjJ2Ps4Y
   - ohne intergrund: https://www.youtube.com/watch?v=CuhzA4wCDgY
+-  panorama zeichnen: http://www.2dgameartguru.com/2016/07/create-clouds-using-circles-in-inkscape.html
+- text as shape https://www.youtube.com/watch?v=l3BHcregNUs and http://forums.scribus.net/index.php/topic,2236.msg10201.html#msg10201
+- http://www.yemanjalisa.net/realiser-un-flocon-de-neige-avec-inkscape/
+
+weitere notizen in der grafiklabor repositry, als issues!
 
 # setup sandstorm on pi
 

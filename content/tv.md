@@ -1,20 +1,44 @@
 # TV
+## Serien
+
+- Orphan Black
 
 ## Movies
 
-- cemetery of splendour (mp4)
+- be kind rewind (commedy, mp4, laptop)
+- cemetery of splendour (mp4, laptop)
 - http://www.cultureunplugged.com/ documentary films
 - Life in Loops (a film remix of Megacities) ft. Sofa Surfers
 - bart to the future: http://bs.to/serie/Die-Simpsons/11/17-Barts-Blick-in-die-Zukunft/Streamcloud-1
-- jeeg (still at office)
 - dario fo: [morte accidentale di un anarchico](https://www.youtube.com/watch?v=d53F8rQXUnA)
+- sing street
+- amanda knox (laptop)
+
+zürich
+
+- der italiener, paolo poloni (documentario sul santa lucia @ pbz.ch)
+- ZÜRI BRÄNNT oder GLOBUSKRAWALL von Jürg Hassler
+- STRÄHL von Manuel Flurin Hendry
+- DER KREIS von Stefan Haupt
+- TRAUMLAND von Petra Volpe an.
+- Heimat oder Hölle - Chronik eines Quartiers im Umbruch (srf)
+- Bäckerei Zürrer
+
+schweiz
+
+- http://interaktiv.tagesanzeiger.ch/2016/100filme/ die 100 beste schweizer filme
 
 ## shorts
 
+- [A short about absurdity](https://vimeo.com/191444383)
+- [die nacksche kanone](https://www.youtube.com/watch?v=ZXPoI7JA9SU)
+- [il giallo](https://www.youtube.com/watch?v=9ChgVQxgzR4)
 - https://archive.org/details/FlatlandAnimated
 - http://www.palegraylabs.com/chad-gadya
 - deux minutes du peuple sur youtube: https://www.youtube.com/watch?v=phZNOxmSQeg
 - court métrage en stop motion: [padre](https://vimeo.com/162326419)
+- [Stephen Fry Kinetic Typography - Language](https://www.youtube.com/watch?v=J7E-aoXLZGY)
+- Adam Curtis Documentaries in 90 Seconds (https://www.youtube.com/watch?v=5CsMdGFplmM)
 
 ## interactive reading
 
@@ -25,6 +49,7 @@
 - [Groningen: The World's Cycling City](https://www.youtube.com/watch?v=fv38J7SKH_g)
 - [Skating in der Mongolei](https://vimeo.com/155103392) + [Out of Steppe](https://vimeo.com/154840966)
 - [Way of seeing](https://www.youtube.com/watch?v=0pDE4VX_9Kk&list=PLlhSx0L1hpaGKfq1qXe1vWUhG1EgIN9Yf)
+- [Calculating Ada The Countess of Computers](https://www.youtube.com/watch?v=vKUeiSJB_pc) (about Ada Lovelace)
 
 ## Sciences
 
@@ -32,6 +57,7 @@
 
 ## Computer, free software and graphics
 
+- [In Defense of the Floppy Disk w/ Lis Pardi at Madison+ UX 2015](https://www.youtube.com/watch?v=kylikelQBqg)
 - http://www.gresham.ac.uk/lectures-and-events/a-very-brief-history-of-computing-1948-2015 : a brief history of computing
 - [INKSCAPE lesson3 : how to draw your face?](https://www.youtube.com/watch?v=EvLJAF83feI&feature=youtu.be)
 - https://www.youtube.com/watch?v=V6VP-2aIcSc (Object-Oriented Programming is Garbage: 3800 SLOC example; with [comments](https://news.ycombinator.com/item?id=11342683)
@@ -39,5 +65,5 @@
 
 # bs
 
-- tatort: 10 / 10
+- tatort: 12 / 10
 - code 37: 1 / 5
