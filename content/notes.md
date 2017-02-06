@@ -1,7 +1,17 @@
 # OCR
 
+how to convert a bitmap pdf to epub?
+
+some ideas
+
 - pdfsandwich to pre-process a PDF
 - tesseract for the conversion
+
+
+or
+
+- pdfocr
+- gscan2pdf
 
 # piping the errors
 
