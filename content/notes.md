@@ -1,3 +1,8 @@
+# OCR
+
+- pdfsandwich to pre-process a PDF
+- tesseract for the conversion
+
 # piping the errors
 
 for piping both the output and the error:
