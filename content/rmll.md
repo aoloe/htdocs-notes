@@ -12,7 +12,7 @@ Intervention sur la négociation de contrat quand on est un graphiste/illustrate
 
 ## voeux
 
- tiens, y a un logiciel que j'aimerais bien voir dans le thème graphisme, c'est OpenToonz: https://opentoonz.github.io/e/ qui était utilisé entre autre par le studio Ghibli, et qui a été libéré l'an dernier. C'était une des conditions de la vente par l'éditeur originel. J'ai participé au portage sur GNU/Linux
+mmu_man: tiens, y a un logiciel que j'aimerais bien voir dans le thème graphisme, c'est OpenToonz: https://opentoonz.github.io/e/ qui était utilisé entre autre par le studio Ghibli, et qui a été libéré l'an dernier. C'était une des conditions de la vente par l'éditeur originel. J'ai participé au portage sur GNU/Linux
 
 # salle 128
 
