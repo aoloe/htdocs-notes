@@ -1,3 +1,19 @@
+# 2017
+
+## stratégie
+
+"il peut y avoir des interventions qui nécessitent un public dev ET graphistes, mais il doit aussi y avoir des interventions qui ancre le graphisme libre dans la société ou des interventions qui mêlent graphisme et libre, sans qu'on soit pour autant un dev"
+
+"interventions qui mêlent graphisme et libre" = par exemple, intervention sur le statut de graphiste et sur l'usage des licences libres dans les agences de communication.
+                 
+"ancrer le graphisme libre dans la société" = idem, statut des communs utiliser dans les agences de com'
+
+Intervention sur la négociation de contrat quand on est un graphiste/illustrateur libre
+
+## voeux
+
+ tiens, y a un logiciel que j'aimerais bien voir dans le thème graphisme, c'est OpenToonz: https://opentoonz.github.io/e/ qui était utilisé entre autre par le studio Ghibli, et qui a été libéré l'an dernier. C'était une des conditions de la vente par l'éditeur originel. J'ai participé au portage sur GNU/Linux
+
 # salle 128
 
 La salle 128 (au premier étage) (voir https://wiki2015.rmll.info/index.php/Lieux-salles-amphis). Elle semble bien convenir car elle dispose de 16 PC utilisables avec une clé bootable (système de notre choix, à communiquer) disposés contre les murs, et une table centrale sans ordinateur peut accueillir 5-6 personnes. Elle fait 50m², et je pense qu'il sera possible de changer un peu les tables de place si nécessaire. 
