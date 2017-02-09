@@ -4,6 +4,31 @@ M/N:M-U0017
 P/N:810-001369
 PID: LZ021A5
 
+# learning rust?
+
+- https://github.com/ctjhoa/rust-learning
+- https://doc.rust-lang.org/book/
+- https://zsiciarz.github.io/24daysofrust/book/vol1/day2.html
+- https://github.com/cyndis/qmlrs
+- https://www.quora.com/Is-Rust-worth-it-to-learn
+- http://cglab.ca/~abeinges/blah/too-many-lists/book/
+
+# OCR
+
+how to convert a bitmap pdf to epub?
+
+some ideas
+
+- pdfsandwich to pre-process a PDF
+- tesseract for the conversion
+
+
+or
+
+- pdfocr
+- gscan2pdf
+>>>>>>> d4562a5d48d673141d9c5c5160c90e8bbfa6f3de
+
 # piping the errors
 
 for piping both the output and the error:
