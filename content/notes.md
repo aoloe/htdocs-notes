@@ -1,3 +1,12 @@
+# learning rust?
+
+- https://github.com/ctjhoa/rust-learning
+- https://doc.rust-lang.org/book/
+- https://zsiciarz.github.io/24daysofrust/book/vol1/day2.html
+- https://github.com/cyndis/qmlrs
+- https://www.quora.com/Is-Rust-worth-it-to-learn
+- http://cglab.ca/~abeinges/blah/too-many-lists/book/
+
 # OCR
 
 how to convert a bitmap pdf to epub?
