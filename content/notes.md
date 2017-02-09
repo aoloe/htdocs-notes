@@ -1,3 +1,9 @@
+# logitech mouse with short cord
+
+M/N:M-U0017
+P/N:810-001369
+PID: LZ021A5
+
 # piping the errors
 
 for piping both the output and the error:
@@ -589,6 +595,9 @@ done
 installed
 - pitivi as flatpak package in `~/bin`
 - simplescreenrecorder
+- `npm install gifify` (but i could not get giflossy to compile)
+- or with ffmpeg: http://superuser.com/questions/556029/how-do-i-convert-a-video-to-gif-using-ffmpeg-with-reasonable-quality
+  `ffmpeg -i ~/test.mkv -vf scale=320:-1 -r 10 -f image2pipe -vcodec ppm - | convert -delay 5 -loop 0 - /tmp/output.gif`
 
 - http://javier.io/blog/en/2014/03/21/ffcast.html
 - https://github.com/lolilolicon/FFcast
