@@ -2,13 +2,15 @@
 
 jurf suggests:
 
-
+~~~
 https://paste.gnome.org/pefuvzcek
 you need to put this in the same directory to compile boost however (stole it from the KDE guys): https://paste.gnome.org/pu4pkxmrt
 first thing is called "net.scribus.ScribusDevel.json", the second "boost-configure"
 you can compile it with a
 flatpak-builder --force-clean --ccache --repo=repo scribus net.scribus.ScribusDevel.json
 (if you want ccache and a generic repo name)
+
+flatpak --user remote-add --no-gpg-verify --if-not-exists scribus-repo repo
 ~~~
 
 # logitech mouse with short cord
