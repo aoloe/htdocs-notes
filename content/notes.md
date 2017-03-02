@@ -10,7 +10,12 @@ you can compile it with a
 flatpak-builder --force-clean --ccache --repo=repo scribus net.scribus.ScribusDevel.json
 (if you want ccache and a generic repo name)
 
+
 flatpak --user remote-add --no-gpg-verify --if-not-exists scribus-repo repo
+to add the repo to flatpak’s sources
+flatpak --user install scribus-repo net.scribus.ScribusDevel
+to install it, the you can run it with "flatpak run net.scribus.ScribusDevel"
+
 ~~~
 
 # logitech mouse with short cord
