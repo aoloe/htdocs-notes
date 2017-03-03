@@ -16,6 +16,26 @@ http://www.liberation.fr/futurs/2017/02/06/logiciel-libre-a-la-conquete-du-grand
 
 mmu_man: tiens, y a un logiciel que j'aimerais bien voir dans le thème graphisme, c'est OpenToonz: https://opentoonz.github.io/e/ qui était utilisé entre autre par le studio Ghibli, et qui a été libéré l'an dernier. C'était une des conditions de la vente par l'éditeur originel. J'ai participé au portage sur GNU/Linux
 
+how
+   
+on a besoin de gens pro-actifs qui cherchent un angle interessant dans l'optique "libre et change".  Par exemple, peut-etre existent-il des groupes qui ont choisi d'utiliser du libre pour la production graphique en raison de certaines limitations du proprio... Il y a de plus en plus de creation d'animation ou de jeux qui choisissent cette voie...
+
+peut-etre serait-il interessant de faire venir des gens qui travaillent sur les logiciels utilises dans ce cadre pour qu'ils discutent des possibilites d'integration... 
+
+blender + inskscape + gimp + ardour semble un combo utilise dans les domaines creatifs...
+
+ou bien Open Source Publishing aussi... Le theme 'web to print' semble se developper...
+
+ou bien quelqu'un pour parler des specificites de la chip MALI 400 qui est la seule qui offre une compatibilite complete avec le logiciel libre
+
+ou les efforts faits pour offrir des interfaces graphiques compatibles a travers les differents desktops pour la crypto (cf. les efforts de PEP project)
+
+ce n'est pas le choix qui manque...
+
+sans parler de la reconnaissance faciale (et comment y echapper), et autre 'computer vision' (gait recognition, etc.) qui envahissent notre environement urbain 
+
+ Sainte est la ville UNESCO du design en plus le musee d'art moderne est genial
+
 # salle 128
 
 La salle 128 (au premier étage) (voir https://wiki2015.rmll.info/index.php/Lieux-salles-amphis). Elle semble bien convenir car elle dispose de 16 PC utilisables avec une clé bootable (système de notre choix, à communiquer) disposés contre les murs, et une table centrale sans ordinateur peut accueillir 5-6 personnes. Elle fait 50m², et je pense qu'il sera possible de changer un peu les tables de place si nécessaire. 
