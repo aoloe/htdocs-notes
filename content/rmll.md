@@ -55,6 +55,7 @@ concrétement:
   - la semaine prochaine je suis libre le lundi soir, le mercredi après 20:00... et le weekend avec les mêmes horaires que ces deux prochains jours.
 yemanjalisa> ok je verrai ce soir avec cedric qd il serai dispo. Ce soir on a bugr donc je pense que c'est rapé
 
+-> scribus ui summit (martin?)
 
 # salle 128
 
