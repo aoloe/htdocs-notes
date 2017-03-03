@@ -38,6 +38,24 @@ sans parler de la reconnaissance faciale (et comment y echapper), et autre 'comp
 
  Sainte est la ville UNESCO du design en plus le musee d'art moderne est genial
 
+## elisa
+
+les organisateurs locaux ont des idées très intéressantes et peut-être quelque chose d'intéressant peut en sortir, mais ils ont aussi pas mal de peine à gérer le côté pratique...
+
+pour l'instant je suis "en charge" du graphisme mais j'ai besoin d'alliés...
+
+concrétement:
+
+- donc la première question c'est: allez vous être présent?
+  - oui
+
+- est-ce que vous avez des idées sur quel public cible pourrait être adéquat pour le graphsime (dans le cadre du "thème" libre et change). est-ce que tu / vous seriez disponibles pour un brainstorming?
+  - yep
+  - jusqu'à dimanche soir mes non-disponibilités sont: ce soir de 19:15 à 22:30 et dimanche de 14:30 à 17:30 et 20:00 à 22:00.
+  - la semaine prochaine je suis libre le lundi soir, le mercredi après 20:00... et le weekend avec les mêmes horaires que ces deux prochains jours.
+yemanjalisa> ok je verrai ce soir avec cedric qd il serai dispo. Ce soir on a bugr donc je pense que c'est rapé
+
+
 # salle 128
 
 La salle 128 (au premier étage) (voir https://wiki2015.rmll.info/index.php/Lieux-salles-amphis). Elle semble bien convenir car elle dispose de 16 PC utilisables avec une clé bootable (système de notre choix, à communiquer) disposés contre les murs, et une table centrale sans ordinateur peut accueillir 5-6 personnes. Elle fait 50m², et je pense qu'il sera possible de changer un peu les tables de place si nécessaire. 
