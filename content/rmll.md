@@ -16,7 +16,9 @@ http://www.liberation.fr/futurs/2017/02/06/logiciel-libre-a-la-conquete-du-grand
 
 mmu_man: tiens, y a un logiciel que j'aimerais bien voir dans le thème graphisme, c'est OpenToonz: https://opentoonz.github.io/e/ qui était utilisé entre autre par le studio Ghibli, et qui a été libéré l'an dernier. C'était une des conditions de la vente par l'éditeur originel. J'ai participé au portage sur GNU/Linux
 
-how
+## how
+
+si tu veux comprendre quelque chose a ce qu'on est en train de faire, lire Simondon c'est pas mal. On peut t'indiquer des passages, mais franchement sa pensee est un peu trop complexe pour la reduire a un format de tweet.
    
 on a besoin de gens pro-actifs qui cherchent un angle interessant dans l'optique "libre et change".  Par exemple, peut-etre existent-il des groupes qui ont choisi d'utiliser du libre pour la production graphique en raison de certaines limitations du proprio... Il y a de plus en plus de creation d'animation ou de jeux qui choisissent cette voie...
 
