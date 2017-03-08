@@ -1,3 +1,32 @@
+# wordpress plugins with composer
+
+this is the minimal `composer.json` file, for installing wordpress plugins that have an own `composer.json` file with the type `wordpress-plugin` (or for themes defined as `wordpress-theme`)
+
+~~~.json
+{
+    "name": "aoloe/wptest",
+    "authors": [
+        {
+            "name": "ale rimoldi",
+            "email": "ale@graphicslab.org"
+        }
+    ],
+    "require": {
+        "composer/installers": "1.*",
+        "anttiviljami/wp-libre-form": "^1.2"
+    }
+}
+~~~
+
+# chromium does not load the plugins / extension anymore
+
+add 
+
+    export CHROMIUM_FLAGS='--enable-remote-extensions'
+
+to `~/.profile` and/or `~/.xinitrc`
+
+
 # logitech mouse with short cord
 
 M/N:M-U0017
