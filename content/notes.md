@@ -26,6 +26,61 @@ add
 
 to `~/.profile` and/or `~/.xinitrc`
 
+# scribus, travis, and appimage
+
+~~~
+curl -L http://api.travis-ci.org/repos/scribusproject/scribus/builds.json
+[
+{
+    "id":203210746,
+    "repository_id":4761381,
+    "number":"643",
+    "state":"finished",
+    "result":0,
+    "started_at":"2017-02-19T18:39:05Z",
+    "finished_at":"2017-02-19T19:23:00Z",
+    "duration":7058,
+    "commit":"51e1f0de975ec77951e397e2a7982b5eae2effe0",
+    "branch":"master",
+    "message":"#14630: Moving multiple items across pages using the outline panel doesn't work properly\n\ngit-svn-id: svn://scribus.net/trunk/Scribus@21790 11d20701-8431-0410-a711-e3c959e3b870",
+    "event_type":"push"
+},
+{...
+]
+
+result:null seems to be the failing one
+finished_at for the build date
+
+curl -L https://api.travis-ci.org/repositories/scribusproject/scribus/builds/203210746.json
+
+matrix [id: 203210747
+
+https://travis-ci.org/scribusproject/scribus/jobs/203210747
+~~~
+
+# scribsu and flatpak
+
+jurf suggests:
+
+~~~
+https://paste.gnome.org/pefuvzcek
+you need to put this in the same directory to compile boost however (stole it from the KDE guys): https://paste.gnome.org/pu4pkxmrt
+first thing is called "net.scribus.ScribusDevel.json", the second "boost-configure"
+you can compile it with a
+flatpak-builder --force-clean --ccache --repo=repo scribus net.scribus.ScribusDevel.json
+(if you want ccache and a generic repo name)
+
+
+flatpak --user remote-add --no-gpg-verify --if-not-exists scribus-repo repo
+to add the repo to flatpak’s sources
+flatpak --user install scribus-repo net.scribus.ScribusDevel
+to install it, the you can run it with "flatpak run net.scribus.ScribusDevel"
+
+and to update it on a recompile or whatever a simple:
+flatpak --user update net.scribus.ScribusDevel
+is needed
+good luck!
+~~~
 
 # logitech mouse with short cord
 
