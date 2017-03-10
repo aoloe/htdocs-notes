@@ -1,3 +1,12 @@
+# a collection of (interesting) wordpress plugins
+
+- Timber (use twig templates for your own work)
+- Carbon Fields (some sort of aggregator)
+- MultilingualPress (for multilanguage sites... free?)
+- Coral Remote Images (link to the online uploads from the local dev mirror)
+- For images, change the filename on upload (add "seo" words and ask for the topic to the user)
+- The SEO Framework
+
 # wordpress plugins with composer
 
 this is the minimal `composer.json` file, for installing wordpress plugins that have an own `composer.json` file with the type `wordpress-plugin` (or for themes defined as `wordpress-theme`)
