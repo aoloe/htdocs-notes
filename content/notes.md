@@ -6,6 +6,8 @@
   - https://data.stadt-zuerich.ch/
   - https://www.stadt-zuerich.ch/ted/de/index/geoz/geodaten_u_plaene/leitungskataster.html
 - https://www.stadt-zuerich.ch/portal/de/index/ogd.html
+- https://forum.schoolofdata.ch/t/what-tools-do-we-use-for-data-wrangling/202
+- https://forum.schoolofdata.ch/t/1-5-3-1001-2-muda/203/4
 
 # a collection of (interesting) wordpress plugins
 
