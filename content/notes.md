@@ -1,3 +1,12 @@
+# muda and opendata
+
+- register/login does not work anymore: http://muda.co/iooiiooi/
+- scrap alt-zurich and create tags for all images: http://www.alt-zueri.ch/turicum/strassen/p/pfingstweidstrasse/pfingstweidstrasse.html
+- know where undeground rivers are, how much water they carry, visualize them:
+  - https://data.stadt-zuerich.ch/
+  - https://www.stadt-zuerich.ch/ted/de/index/geoz/geodaten_u_plaene/leitungskataster.html
+- https://www.stadt-zuerich.ch/portal/de/index/ogd.html
+
 # a collection of (interesting) wordpress plugins
 
 - Timber (use twig templates for your own work)
