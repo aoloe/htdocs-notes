@@ -1,3 +1,27 @@
+# scribus, scripter and signals
+
+~~~
+< a-l-e> just wondering: did you work on py(qt) scripting inside of krita?
+
+< boud> yes
+I'm now finishing it up
+I tested a bunch of approaches -- pythonqt, pyqt + sip, generating sip from cmake using llvm, mikro.py, and in the end went with hand-written sip files around a wrapper library.
+
+You can read my write-up here: https://phabricator.kde.org/T1625
+
+I took the scribus ng scripter at one point, and fixed a bunch of issues with it, but it never felt solid to me, for some reason, probably irrational.
+
+< a-l-e> and do you think that scribus should take your approach?
+< boud> it's hard to say -- I also couldn't get signals working properly with the mikro.py approach, and there was a lot of marshalling of qobjects.
+But I took about four months of full-time work to wrap a dedicated subset of Krita's functionality
+
+< boud> (we created and killed at least 3 different scripting modules, 4 if you count opengtl)
+< boud> This was kinda straighforward, and Phil Thompson could answer my questions on sip easily -- and there's a lot of compile-time checking of the
+        wrapper.
+< boud> and I still need to figure out how to bundle python3 with a mingw-built version of krita on windows.
+< boud> the signal stuff made me feel like cadwallader -- nothing works!
+~~~
+
 # muda and opendata
 
 - register/login does not work anymore: http://muda.co/iooiiooi/
