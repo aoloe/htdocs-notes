@@ -20,6 +20,8 @@ But I took about four months of full-time work to wrap a dedicated subset of Kri
         wrapper.
 < boud> and I still need to figure out how to bundle python3 with a mingw-built version of krita on windows.
 < boud> the signal stuff made me feel like cadwallader -- nothing works!
+
+<boud> some improved code: it's in krita/plugins/extensions/pykrita/plugin/krita/attic
 ~~~
 
 # muda and opendata
