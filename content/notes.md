@@ -126,6 +126,8 @@ and to update it on a recompile or whatever a simple:
 flatpak --user update net.scribus.ScribusDevel
 is needed
 good luck!
+
+here are the very unfinished manifests so far: https://github.com/jurf/scribus-flatpak
 ~~~
 
 # logitech mouse with short cord
