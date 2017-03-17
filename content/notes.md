@@ -104,7 +104,7 @@ matrix [id: 203210747
 https://travis-ci.org/scribusproject/scribus/jobs/203210747
 ~~~
 
-# scribsu and flatpak
+# scribus and flatpak
 
 jurf suggests:
 
