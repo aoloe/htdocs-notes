@@ -1,3 +1,7 @@
+# companies having participated in scribus development
+
+- http://www.newspapersystems.com/ (William Bader, Juraj Fedel)
+
 # scribus, scripter and signals
 
 ~~~
