@@ -1,3 +1,7 @@
+# westworld
+
+- [the science of westworld](https://blog.plan99.net/the-science-of-westworld-ec624585e47) + [hn thread](https://news.ycombinator.com/item?id=13343613)
+
 # displaylink ubs external monitor
 
 http://foolcontrol.org/?p=1777
