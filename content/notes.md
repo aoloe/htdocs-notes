@@ -1,3 +1,8 @@
+# being on facebook
+
+- https://stallman.org/facebook-presence.fr.html
+- http://dock18.ch/medienkultur/2014/02/20/we-leave-facebook/
+
 # westworld
 
 - [the science of westworld](https://blog.plan99.net/the-science-of-westworld-ec624585e47) + [hn thread](https://news.ycombinator.com/item?id=13343613)
