@@ -1,3 +1,7 @@
+# collaborating on scribus through irc
+
+http://osp.kitchen/tools/scribus-irc/
+
 # being on facebook
 
 - https://stallman.org/facebook-presence.fr.html
