@@ -129,6 +129,9 @@ https://travis-ci.org/scribusproject/scribus/jobs/203210747
 
 jurf suggests:
 
+so, if you want to try it, it’s a simple `flatpak install https://jurf.gitlab.io/scribus-flatpak/scribus-nightly.flatpakref`
+
+
 ~~~
 https://paste.gnome.org/pefuvzcek
 you need to put this in the same directory to compile boost however (stole it from the KDE guys): https://paste.gnome.org/pu4pkxmrt
