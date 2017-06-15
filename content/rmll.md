@@ -1,3 +1,20 @@
+# 2017: roundup
+
+- <https://github.com/frab/frab>: frab is a web-based conference planning and management system is used by froscon and based on pentabarf.
+- les sous thèmes sont importants: il permettent de partager les tâches entre plusieurs personnes.
+  - il faut des processus/tâches/avantages clairs, écrits dans un wiki, pour les responsables de thèmes et de sous-thèmes.
+  - mettre à disposition des modèle de mail pour les différent occasions (les sous-thèmes peuvent y contribuer)
+- m pour "mondiales":
+  - les rmll sont et restent franco(phones) sauf pour quelques thèmes.
+  - pour les thèmes qui ne sont pas "internationaux", seuls les titres des conférences sont traduits, si possible de façon centralisée.
+  - deux langues ça suffit.
+- le grand public:
+  - c'est bien de viser le grand public.
+  - mais il faut définir ce que c'est le grand public.
+  - probablement, ce n'est pas la même définition que pour les télévisions privées.
+  - probablement, chaque thème (ou sous-thème) a un grand public différent.
+  - chaque responsable de (sous-)thème devrait définir le public qu'il souhaite attirer.
+
 # 2017
 
 ## stratégie
