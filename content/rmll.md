@@ -1,9 +1,12 @@
 # 2017: roundup
 
+cette année, j'ai beaucoup apprécié les efforts de l'équipe locale de "moderniser"/ouvrir les RMLL. malheureusement, dans mon cas, je n'ai pas pu
+
 - <https://github.com/frab/frab>: frab is a web-based conference planning and management system is used by froscon and based on pentabarf.
 - les sous thèmes sont importants: il permettent de partager les tâches entre plusieurs personnes.
   - il faut des processus/tâches/avantages clairs, écrits dans un wiki, pour les responsables de thèmes et de sous-thèmes.
   - mettre à disposition des modèle de mail pour les différent occasions (les sous-thèmes peuvent y contribuer)
+  - des noms de thèmes "fantaisistes" et des descriptions cryptiques peuvent être utilisées dans la communication vers l'exterieur, mais dans la communication interne  un vocabulaire qui 
 - m pour "mondiales":
   - les rmll sont et restent franco(phones) sauf pour quelques thèmes.
   - pour les thèmes qui ne sont pas "internationaux", seuls les titres des conférences sont traduits, si possible de façon centralisée.
