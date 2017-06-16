@@ -1,3 +1,7 @@
+# couleur3 stream
+
+http://lsaplus.swisstxt.ch/audio/couleur3_96.stream/playlist.m3u8
+
 # collaborating on scribus through irc
 
 http://osp.kitchen/tools/scribus-irc/
