@@ -65,5 +65,5 @@ schweiz
 
 # bs
 
-- tatort: 12 / 10
+- tatort: 13 / 2
 - code 37: 1 / 5
