@@ -57,6 +57,13 @@ schweiz
 
 ## Computer, free software and graphics
 
+- https://media.ccc.de/c/SHA2017 :
+  - [DNA: The Code of Life](https://media.ccc.de/v/SHA2017-31-dna_the_code_of_life)
+  - [Best of IoT Fails](https://media.ccc.de/v/SHA2017-163-best_of_iot_fails)
+  - [Computational Thinking: How your can teach it.](https://media.ccc.de/v/SHA2017-234-computational_thinking)
+  - [Art Tech Activism Privacy and Cool Robots](https://media.ccc.de/v/SHA2017-340-art_tech_activism_privacy_and_cool_robots)
+  - 
+
 - [In Defense of the Floppy Disk w/ Lis Pardi at Madison+ UX 2015](https://www.youtube.com/watch?v=kylikelQBqg)
 - http://www.gresham.ac.uk/lectures-and-events/a-very-brief-history-of-computing-1948-2015 : a brief history of computing
 - [INKSCAPE lesson3 : how to draw your face?](https://www.youtube.com/watch?v=EvLJAF83feI&feature=youtu.be)
