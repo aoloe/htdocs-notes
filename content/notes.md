@@ -1,3 +1,7 @@
+# wnaderungen um zürich
+
+https://www.wandern-zh.ch/de/wandern/zuercher-stadtumgang
+
 # missing `qDebug()` output in debian testing
 
 according to <https://brendanwhitfield.wordpress.com/2016/06/08/enabling-qdebug-on-fedora/> one has to enable it by creating the `~/.config/QtProject/qtlogging.ini` with the following content:
