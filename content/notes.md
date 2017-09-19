@@ -1,4 +1,10 @@
-# wnaderungen um zürich
+# matching html tags in vim
+
+<https://vi.stackexchange.com/questions/780/how-to-jump-between-matching-html-xml-tags>
+
+add the line `runtime macros/matchit.vim` in your `~/.vimrc`, restart vim and then for html files `%` will jump to the matching tags.
+
+# wanderungen um zürich
 
 https://www.wandern-zh.ch/de/wandern/zuercher-stadtumgang
 
