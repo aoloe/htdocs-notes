@@ -1,3 +1,24 @@
+# matching html tags in vim
+
+<https://vi.stackexchange.com/questions/780/how-to-jump-between-matching-html-xml-tags>
+
+add the line `runtime macros/matchit.vim` in your `~/.vimrc`, restart vim and then for html files `%` will jump to the matching tags.
+
+# wanderungen um zürich
+
+https://www.wandern-zh.ch/de/wandern/zuercher-stadtumgang
+
+# missing `qDebug()` output in debian testing
+
+according to <https://brendanwhitfield.wordpress.com/2016/06/08/enabling-qdebug-on-fedora/> one has to enable it by creating the `~/.config/QtProject/qtlogging.ini` with the following content:
+
+~~~.ini
+*.debug=true
+qt.*.debug=false
+~~~
+
+and it does work!
+
 # pyside2 on debian
 
 https://wiki.qt.io/PySide2_GettingStarted
