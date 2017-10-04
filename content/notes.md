@@ -139,6 +139,9 @@ https://travis-ci.org/scribusproject/scribus/jobs/203210747
 
 # scribus and flatpak
 
+jurf: use the python script in the [manifest repository on gitbub](https://github.com/jurf/scribus-flatpak)
+
+
 jurf suggests:
 
 so, if you want to try it, it’s a simple `flatpak install https://jurf.gitlab.io/scribus-flatpak/scribus-nightly.flatpakref`
