@@ -1,10 +1,3 @@
-# pyside2 on debian
-
-https://wiki.qt.io/PySide2_GettingStarted
-
-- i will have to build pyside2 on debian
-- "5.7+ version of qt uses c++11 constructs. The c++ parser in pyside 5.6 branch can not handle that. the 5.9 branch of pyside uses clang for parsing, and thus works with qt5.7+."
-- scroll down and look for the instruction for ubuntu.
 
 # couleur3 stream
 
