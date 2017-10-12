@@ -1,3 +1,31 @@
+# matching html tags in vim
+
+<https://vi.stackexchange.com/questions/780/how-to-jump-between-matching-html-xml-tags>
+
+add the line `runtime macros/matchit.vim` in your `~/.vimrc`, restart vim and then for html files `%` will jump to the matching tags.
+
+# wanderungen um zürich
+
+https://www.wandern-zh.ch/de/wandern/zuercher-stadtumgang
+
+# missing `qDebug()` output in debian testing
+
+according to <https://brendanwhitfield.wordpress.com/2016/06/08/enabling-qdebug-on-fedora/> one has to enable it by creating the `~/.config/QtProject/qtlogging.ini` with the following content:
+
+~~~.ini
+*.debug=true
+qt.*.debug=false
+~~~
+
+and it does work!
+
+# pyside2 on debian
+
+https://wiki.qt.io/PySide2_GettingStarted
+
+- i will have to build pyside2 on debian
+- "5.7+ version of qt uses c++11 constructs. The c++ parser in pyside 5.6 branch can not handle that. the 5.9 branch of pyside uses clang for parsing, and thus works with qt5.7+."
+- scroll down and look for the instruction for ubuntu.
 
 # couleur3 stream
 
@@ -132,6 +160,9 @@ https://travis-ci.org/scribusproject/scribus/jobs/203210747
 
 # scribus and flatpak
 
+jurf: use the python script in the [manifest repository on gitbub](https://github.com/jurf/scribus-flatpak)
+
+
 jurf suggests:
 
 so, if you want to try it, it’s a simple `flatpak install https://jurf.gitlab.io/scribus-flatpak/scribus-nightly.flatpakref`
@@ -158,6 +189,29 @@ good luck!
 
 here are the very unfinished manifests so far: https://github.com/jurf/scribus-flatpak
 ~~~
+
+# create your own flatpak for scribus
+
+- install `flatpak-builder`
+- make sure that `elfutils` (for `eu-strip`) is installed
+- install the kde flatpak sde (https://community.kde.org/Guidelines_and_HOWTOs/Flatpak#Qt_and_KF5_Runtime):
+  - `flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo --user`
+  - `flatpak install flathub org.kde.Sdk//5.9 --user`
+- `git clone https://github.com/jurf/scribus-flatpak.git`
+- `cd scribus-flatpak`
+- `cp master/net.scribus.Scribus.json master/net.your-name.Scribus.json`
+- edit `master/net.your-name.Scribus.json`:
+  - set `/modules/scribus/sources/url` to your repository.
+  - set `/branch` to your preferred branch name to prevent conflicts when installing
+- `./build-flatpak.py net.yourname.Scribus --branch=master`
+ - `master` matches the directory where the `.json` file is placed.
+ 
+
+## notes
+
+- with the `--user` option, all the files will be in `~/.var/flatpak` (they will be in `/var` otherwise and you will need root rights for installing)
+- to run the built app without installing it (e.g. to check if it works), simply run:  
+ `flatpak-builder --run appdir-master/ master/net.scribus.Scribus.json scribus`
 
 # logitech mouse with short cord
 
